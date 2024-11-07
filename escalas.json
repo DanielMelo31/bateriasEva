@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "ESCALA FANTASTICO",
+        "proposito": "Permite identificar el estilo y la calidad de vida de una población en particular, es una herramienta breve y sencilla de aplicar",
+        "instrumento": "Es una encuesta, la cual cuenta con 30 preguntas que exploran 10 categorías como: familiares y amigos, actividad física, nutrición, toxicidad, alcohol, sueño y estrés, tipo de personalidad y satisfacción escolar, imagen interior, control de salud y sexualidad y orden",
+        "validacion": "En el presente artículo se realizó una entrevista a 550 personas de nacionalidad colombiana, del departamento del Valle del Cauca, con una edad mayor a18 años (20 y 64 años) consideradamente sanos; esta entrevista era de forma auto-diligenciadas; la cual, se basaba en un estudio transversal, cuyo objetivo es evaluar la validez y la fiabilidad del cuestionario. Los resultados obtenidos se tomaron por medio de α de Cronbach; la cual, todos los ítems del cuestionario han presentado aceptabilidad mayor a 0.67, esto genera buena validez del constructo y de la confiabilidad; de tal forma que se propone como una herramienta sencilla para evaluar, sin embargo, el plan de Canadá afirma que esta escala debe que ser implementada a partir de 15 años.",
+        "referencias": "López, Carmona JM, Ariza Andraca CR, Rodríguez Moctezuma JR, Munguía Miranda C. Construcción y validación inicial de un instrumento para medir el estilo de vida en pacientes con diabetes mellitus tipo 2. Salud Pública de México [en línea] 2003 [fecha de acceso 15 de agosto de 2013]; 45 (julio-agosto).Disponible en: https://www.redalyc.org/articulo.oa?id=10645404.",
+        "imagen": "https://www.ilriformista.it/wp-content/uploads/2021/08/12915430_small-900x600.jpg"
+        
+    },
+    {
+        "id": 2,
+        "nombre": "EURO QOL- 5 Dimension questionnaire",
+        "proposito": "Es utilizada para evaluar la calidad de vida relacionada con la salud, para proporcionar una evaluación integral del estado de salud en diversas subpoblaciones y condiciones",
+        "instrumento": "Se compone de dos partes principales: descripción del estado de salud (movilidad, autocuidado entre otras) y evaluación mediante una escala visual analógica ( mide el estado de salud )",
+        "validacion": "Disponible en más de 150 idiomas, el EQ-5D se adapta a diversas culturas y contextos internacionales. Las traducciones validadas aseguran la consistencia y confiabilidad en diferentes poblaciones y regiones.",
+        "referencias": "El Cuestionario de calidad de vida EuroQOL de 5 dimensiones - EuroQOL-5 Dimension Questionnaire - Análisis Completo - Recursos de Fisioterapia",
+        "imagen":"https://www.ilriformista.it/wp-content/uploads/2021/08/12915430_small-900x600.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "IPAQ",
+        "proposito": "Evalua el nivel de actividad fisica de un individuo",
+        "instrumento": "Se aplica de forma escrita o en entrevista y en este cuestionario podemos encontrarlo de forma larga o corta",
+        "validacion": "Si tiene validación en español ya que ha pasado por por evaluaciones para medir la actividad fisica de los individuos",
+        "referencias": "Recursosfisioterapia. (2024, 22 febrero). ‘Cuestionario de Actividades Físicas (IPAQ)’ – Explicación completa y detallada. Recursos de Fisioterapia. https://recursosfisioterapia.com/cuestionario-de-actividades-fisicas-ipaq/", 
+        "imagen":"https://www.ilriformista.it/wp-content/uploads/2021/08/12915430_small-900x600.jpg"
+    }
+]
