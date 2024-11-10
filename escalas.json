@@ -6,8 +6,7 @@
         "instrumento": "Es una encuesta, la cual cuenta con 30 preguntas que exploran 10 categorías como: familiares y amigos, actividad física, nutrición, toxicidad, alcohol, sueño y estrés, tipo de personalidad y satisfacción escolar, imagen interior, control de salud y sexualidad y orden",
         "validacion": "En el presente artículo se realizó una entrevista a 550 personas de nacionalidad colombiana, del departamento del Valle del Cauca, con una edad mayor a18 años (20 y 64 años) consideradamente sanos; esta entrevista era de forma auto-diligenciadas; la cual, se basaba en un estudio transversal, cuyo objetivo es evaluar la validez y la fiabilidad del cuestionario. Los resultados obtenidos se tomaron por medio de α de Cronbach; la cual, todos los ítems del cuestionario han presentado aceptabilidad mayor a 0.67, esto genera buena validez del constructo y de la confiabilidad; de tal forma que se propone como una herramienta sencilla para evaluar, sin embargo, el plan de Canadá afirma que esta escala debe que ser implementada a partir de 15 años.",
         "referencias": "López, Carmona JM, Ariza Andraca CR, Rodríguez Moctezuma JR, Munguía Miranda C. Construcción y validación inicial de un instrumento para medir el estilo de vida en pacientes con diabetes mellitus tipo 2. Salud Pública de México [en línea] 2003 [fecha de acceso 15 de agosto de 2013]; 45 (julio-agosto).Disponible en: https://www.redalyc.org/articulo.oa?id=10645404.",
-        "imagen": "https://www.ilriformista.it/wp-content/uploads/2021/08/12915430_small-900x600.jpg"
-        
+        "imagen": "https://i.postimg.cc/65yqMFgL/Whats-App-Image-2024-11-06-at-6-30-19-PM-1.jpg"
     },
     {
         "id": 2,
@@ -16,7 +15,7 @@
         "instrumento": "Se compone de dos partes principales: descripción del estado de salud (movilidad, autocuidado entre otras) y evaluación mediante una escala visual analógica ( mide el estado de salud )",
         "validacion": "Disponible en más de 150 idiomas, el EQ-5D se adapta a diversas culturas y contextos internacionales. Las traducciones validadas aseguran la consistencia y confiabilidad en diferentes poblaciones y regiones.",
         "referencias": "El Cuestionario de calidad de vida EuroQOL de 5 dimensiones - EuroQOL-5 Dimension Questionnaire - Análisis Completo - Recursos de Fisioterapia",
-        "imagen":"https://www.ilriformista.it/wp-content/uploads/2021/08/12915430_small-900x600.jpg"
+        "imagen": "https://i.postimg.cc/pLK27vZ8/euro.png"
     },
     {
         "id": 3,
@@ -24,7 +23,71 @@
         "proposito": "Evalua el nivel de actividad fisica de un individuo",
         "instrumento": "Se aplica de forma escrita o en entrevista y en este cuestionario podemos encontrarlo de forma larga o corta",
         "validacion": "Si tiene validación en español ya que ha pasado por por evaluaciones para medir la actividad fisica de los individuos",
-        "referencias": "Recursosfisioterapia. (2024, 22 febrero). ‘Cuestionario de Actividades Físicas (IPAQ)’ – Explicación completa y detallada. Recursos de Fisioterapia. https://recursosfisioterapia.com/cuestionario-de-actividades-fisicas-ipaq/", 
-        "imagen":"https://www.ilriformista.it/wp-content/uploads/2021/08/12915430_small-900x600.jpg"
+        "referencias": "Recursosfisioterapia. (2024, 22 febrero). ‘Cuestionario de Actividades Físicas (IPAQ)’ – Explicación completa y detallada. Recursos de Fisioterapia. https://recursosfisioterapia.com/cuestionario-de-actividades-fisicas-ipaq/",
+        "imagen": "https://i.postimg.cc/B6n4XKGc/ipaq.png"
+    },
+    {
+        "id": 4,
+        "nombre": "ParQ",
+        "proposito": "Permite evaluar la aptitud y seguridad de una persona antes de iniciar una actividad física.",
+        "instrumento": "Preguntas sencillas y específicas, y debe responder SI O NO, con el fin de identificar si la persona necesita primero que lo valide el doctor para empezar a realizar actividad fisica",
+        "validacion": "Cribado PAR-Q en forma remota, estudiantes universitarios en tiempo de pandemia Covid-19 LINK: Cribado PAR-Q en forma remota, estudiantes universitarios en tiempo de pandemia Covid-19",
+        "referencias": "S/f). Enfermeriabuenosaires.com. Recuperado el 6 de noviembre de 2024, de https://enfermeriabuenosaires.com/escala-mini-mental-state-examination/",
+        "imagen": "https://i.postimg.cc/nL0tbhQs/Whats-App-Image-2024-11-06-at-7-05-12-PM.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "MOCA (montreal cognitive assesment)",
+        "proposito": "MOCA  se detecta, de forma específica, el deterioro cognitivo leve",
+        "instrumento": "Ha sido diseñado para hacer una evaluación cognitiva e identificar estadios tempranos de la demencia",
+        "validacion": "Confiabilidad, validez de criterio y discriminante del Montreal Cognitive Assessment (MoCA) test, en un grupo de adultos de Bogotá Link Redalyc.Confiabilidad, validez de criterio y discriminante del Montreal Cognitive Assessment (MoCA) test, en un grupo de adultos de Bogotá",
+        "referencias": "Test de evaluación cognitiva de Montreal (MoCA), ¿qué mide? https://www.psicoactiva.com/blog/test-de-evaluacion-cognitiva-de-montreal/",
+        "imagen": "https://i.postimg.cc/cCKWcGCv/MOCA.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Escala de hoehn y Yahr",
+        "proposito": "Mide el grado de recuperación motora en personas que han sufrido un ACV o daño cerebral",
+        "instrumento": "Recuperación motora en datos objetivos y es la mas completa para cuantificar el deterioro motor",
+        "validacion": "Validación transcultural de la evaluació fug meyer en pacientes con ACV en Colombia  Link: VALIDACIÓN TRANSCULTURAL DE LA EVALUACIÓN FUGL-MEYER EN ESPAÑOL: UN ESTUDIO EN PACIENTES CON ACV EN COLOMBIA | Fisioterapia mundial",
+        "referencias": "Evaluación Fugl Meyer (FMA). (2016, octubre 20). Ocupacreando.com. https://www.ocupacreando.com/2016/10/20/evaluacion-fugl-meyer-fma",
+        "imagen": "https://i.postimg.cc/DfDnw0pL/Hoehn-and-Yahr-Scale-1320x793.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Fugl Meyer",
+        "proposito": "Mide el grado de recuperación motora en personas que han sufrido un ACV o daño cerebral",
+        "instrumento": "Recuperación motora en datos objetivos y es la mas completa para cuantificar el deterioro motor",
+        "validacion": "Validación transcultural de la evaluació fug meyer en pacientes con ACV en Colombia Link: VALIDACIÓN TRANSCULTURAL DE LA EVALUACIÓN FUGL-MEYER EN ESPAÑOL: UN ESTUDIO EN PACIENTES CON ACV EN COLOMBIA | Fisioterapia mundial",
+        "referencias": "Evaluación Fugl Meyer (FMA). (2016, octubre 20). Ocupacreando.com. https://www.ocupacreando.com/2016/10/20/evaluacion-fugl-meyer-fma",
+        "imagen": "https://i.postimg.cc/ZnPGHYZK/fugl-1.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Motor Assessment Scale- MAS",
+        "proposito": "Evaluar la función motora cotidiana en personas que han experimentado un accidente cerebrovascular",
+        "instrumento": "Herramienta clinica utiliada para evaluar la función motora en pacientes con daños neurologicos",
+        "validacion": "Se realiza búsqueda en bases de datos como El sevier, Scielo , Google académico, EBSCO host, entre otras. No fue posible encontrar un artículo con la validación en Colombia sobre el uso de esta escala, por ello no se adjunta",
+        "referencias": "Recursosfisioterapia. (2024, junio 2). La Escala de evaluación motora - Motor Assessment Scale (MAS) - Análisis Completo. Recursos de Fisioterapia. https://recursosfisioterapia.com/valoracion_en_fisioterapia-la-escala-de-evaluacion-motora-motor-assessment-scale/",
+        "imagen": "https://i.postimg.cc/zBZ2QmxL/MOTOR-ASSEMENT-MAS.png"
+    },
+    {
+        "id": 9,
+        "nombre": "CUESTIONARIO DE ABILHAND",
+        "proposito": "Evalúa la capacidad bimanual y mide la discapacidad y limitación de la función manual de las personas, especialmente aquellas con discapacidades en las extremidades superiores o problemas de motricidad fina.",
+        "instrumento": "Por medio de una entrevista se le pide al paciente que estime la facilidad o dificultad de realizar las tareas y actividades de manera independiente",
+        "validacion": "Ostolaza, M., Abudarham, J., Dilascio, S., Drault-Boedo, E., Gallo,S., Garcete, A., Kramer, M., Maiarú, M., Mendelevich, A., Módica, M., Peralta,F. y Sánchez, C. (2017). Herramientas de evaluación del uso fino de la mano y uso de la mano y el brazo en sujetos con secuela de ictus: revisión sistemática. Recuperado de: https://www.researchgate.net/profile/Alejandro-Mendelevich-2/publication/316141163_Hand_fine_motor_skills_and_use_of_both_hand_and_arm_in_subjects_after_a_stroke_A_systematic_review/links/58f212aeaca27289c2166fd",
+        "referencias": "Evaluación y Medición - Cuestionario de Abilhand. (s/f). Google.com. Recuperado el 6 de noviembre de 2024, de https://sites.google.com/view/evaluacionymedicion/todas-las-escalas/cuestionario-de-abilhand",
+        "imagen": "https://i.postimg.cc/BZhcL92x/ABILHAND-Spanish-Espanol.jpg"
+    }, 
+    {
+        "id": 10,
+        "nombre": "RIVERMEAD MOBILITY INDEX",
+        "proposito": "Es una herramienta de evaluación diseñada para medir la movilidad funcional en individuos que han sufrido un ictus, lesión cerebral adquirida, amputación de extremidad inferior o esclerosis múltiple",
+        "instrumento": "Planes de tratamiento y monitorear la mejora o deterioro de la movilidad del paciente",
+        "validacion": "No tiene",
+        "referencias": "Recursosfisioterapia. (2024, junio 17). El Índice de movilidad de Rivermead - Rivermead Mobility Index - Análisis Completo. Recursos de Fisioterapia. https://recursosfisioterapia.com/valoracion_en_fisioterapia-el-indice-de-movilidad-de-rivermead-rivermead-mobility-index/",
+        "imagen": "https://i.postimg.cc/7ZzgW5dV/RIVERMEAD-MOBILITY-INDEX-1.jpg"
     }
+
 ]
