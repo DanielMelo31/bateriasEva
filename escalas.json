@@ -151,6 +151,159 @@
         "validacion": "No esta valida en Colombia Países validos: Estados Unidos, Reino Unido, Países Árabes ",
         "referencias": "Shirley Ryan AbilityLab, (2015). ´´Orthotics Prosthetics Users Survey´´. Tomado de: https://www.sralab.org/rehabilitation-measures/orthotics-prosthetics-users-survey",
         "imagen": "https://i.postimg.cc/1XBhKq2x/imagennn.png"
+    },
+    {
+        "id": 18,
+        "nombre": "Trinity amputation and prostresis experience scales- revised (Tapes-r)",
+        "proposito": "Es para evaluar la comodidad y la experiencia actual que el paciente presenta por su amputación en especial en miembros inferiores",
+        "instrumento": "Cuestionario autoadministrado que comprende los dominios de ajuste psicosocial, restricción de actividad y satisfacción protésica, cada uno con 3 subescalas. Con una exploración adicional del dolor residual, dolor del miembro fantasma y otros problemas médicos. Incorporando así los aspectos físicos y psicosociales del ajuste.",
+        "validacion": "Sigue en su origen normal que es ingles y por ello lo usan más en países extranjeros como España, Francia, Chile, México, Argentina enre otros.",
+        "referencias": "Gallagher, P., Maclachlan, M., P, A. G., & Trinity, M. M. T. (2004). Las escalas de experiencia de amputación y prótesis de Trinity y calidad de vida en personas con amputación de miembros inferiores, 85 (mayo). https://doi.org/10.1016/j.apmr.2003.07.009",
+        "imagen": "https://i.postimg.cc/X7nCLBXs/im.png"
+    },
+    {
+        "id": 19,
+        "nombre": "Amputee mobility predictor assessment tool",
+        "proposito": "",
+        "instrumento": "",
+        "validacion": "Amputee mobility predictor- bilateral: a performance- based measure of mobility for people with bilateral lower- limb loss (va.gov) Países validos: Estados Unidos, España, Chile, Mexico",
+        "referencias": "Shirley Ryan AbilityLab, (2017). ´´Amputee Mobility Predictor´´. Tomado de: https://www.sralab.org/rehabilitation-measures/amputee-mobility-predictor ",
+        "imagen": "https://i.postimg.cc/VkqsVDTM/ima-2.png"
+    },
+    {
+        "id": 20,
+        "nombre": "Karnofsky performac status scale ",
+        "proposito": "La escala evalúa la capacidad de un paciente para tolerar terapias en enfermedades graves, específicamente para la quimioterapia ",
+        "instrumento": "Fue desarrollada por el médico estadounidense David A. Karnofsky y su colega Joseph H. Burchenal. Es una herramienta de evaluación utilizada para evaluar la capacidad funcional de los pacientes y comparar la efectividad de diferentes terapias y tratamientos ",
+        "validacion": "Se realiza búsqueda en bases de datos como El sevier, Scielo, Google académico, EBSCO host, entre otras. No fue posible encontrar un artículo con la validación en español sobre el uso de esta escala, sin embargo, en diferentes artículos es considerada una escala y sencilla a diferencia de otras. Articulo Evaluación de la calidad de vida en pacientes en hemodiálisis crónica mediante el cuestionario “Kidney Disease Quality of Life (KDQOL-36)” ",
+        "referencias": "cáncer. Einstein , 7 (3 Pt 1), 314-21. Caffaratti, G., Giovannini, S., Del Pont, FM, Mormandi, R., Alcorta, SC y Cervio, A. (2021). ABORDAGEM TELOVELAR PARA TRATAMENTO CIRÚRGICO DE TUMORES DO QUARTO VENTRÍCULO EM PACIENTES",
+        "imagen": "https://i.postimg.cc/vThknxS4/a.png"
+    },
+    {
+        "id": 21,
+        "nombre": "Senior fitness test ",
+        "proposito": "Herramienta creada con el fin de valorar la condición física de los adultos mayores ",
+        "instrumento": "Es una batería diseñada por Rikli y Jones , la cual permite medir y evaluar diferentes componentes asociados a la independencia funcional en adultos mayores tales como la fuerza muscular, la resistencia aeróbica, la flexibilidad y la agilidad ",
+        "validacion": "Articulo Confiabilidad del Senior Fitness Test versión en español, para población adulta mayor en Tunja-Colombia / Reliability of Senior Fitness Test version in Spanish for older people in Tunja-Colombia",
+        "referencias": "Cobo Mejía, E. A., Ochoa González, M. E., Ruiz Castillo, L. Y., Vargas Niño, D. M., Sáenz Pacheco, A. M., & Sandoval Cuellar, C. (2016). Confiabilidad del Senior Fitness Test versión en español, para población adulta mayor en Tunja-Colombia. Arch. med. deporte, 382–386. https://pesquisa.bvsalud.org/portal/resource/pt/ibc-160571",
+        "imagen": "https://i.postimg.cc/PNGpmNpk/imf.png"
+    }, 
+    {
+        "id": 22,
+        "nombre": "AIMS- alberta infant motor scale ",
+        "proposito": "Herramienta que se utiliza con el fin de evaluar el desarrollo motor en niños a término y pretérmino, permite la valoración del desarrollo motor grueso a través de scores y percentiles y su vez sean comparativos con datos de la normativa enfatiza sobre las destrezas y la calidad de los patrones de movimiento (Ustariz Manjarrez. A. 2018) ",
+        "instrumento": "La escala se subescalas: prono (21 ítems) supino (9 ítems) sedente (12items) de pie (16 ítems) ",
+        "validacion": "Articulo de investigación de la revista chilena de neuropsquiatria  establecio la traducción en español y la validación en Colombia https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-92272023000300258&lng=es&nrm=iso&tlng=es ",
+        "referencias": "Ustariz Manjarrez. A.(2018). Evaluación del desarrollo motor en prematuros menores de 1 año, mediante la escala motora infantil Alberta y el método Munich. Universidad Nacional. Recuperado el 24 de noviembre de 2023 79955207.2018.pdf (unal.edu.co)  ",
+        "imagen": "https://i.postimg.cc/7LDxS0KV/i.png"
+    }, 
+    {
+        "id": 23,
+        "nombre": "Weefim – functional Independence measure for children ",
+        "proposito": "autocuidado, la movilidad funcional y las habilidades cognitivas, medida de la capacidad funcional que se puede utilizar para niños con desarrollo típico, de 6 meses a 7 años, así como para niños mayores de 7 años con discapacidades y retrasos en el desarrollo funcional ",
+        "instrumento": "Sistema de medición del desempeño de 18 ítems que documenta el autocuidado, la movilidad funcional y las habilidades cognitivas, medida de la capacidad funcional que se puede utilizar para niños con desarrollo típico, de 6 meses a 7 años, así como para niños mayores de 7 años con discapacidades y retrasos en el desarrollo funcional.  Con base en la observación directa o el informe del cuidador obtenido por un examinador capacitado.  (Bartholomaus, R., Moyano, C., Solis, F., & Lobos, M. J. 2008) ",
+        "validacion": "Se valida por la eficiencia sobre tratamientos y terapias restrictivas sobre funcionalidad de la extremidad superior en niños de 3 a 8 años con parálisis cerebral hemiparesia ",
+        "referencias": "García, J., Rolle, G., Huerta, V., Lavanchy, J., San Martín, P., & Fuentes, M. (2014). Eficacia de la terapia restrictiva sobre funcionalidad de la extremidad superior en niños de 3 a 8 años con parálisis cerebral hemiparética: un ensayo clínico experimental. Rehabil. integral (Impr.), 8-16. ",
+        "imagen": "https://i.postimg.cc/c4XjFY1h/t04-02.gif"
+    },
+    {
+        "id": 24,
+        "nombre": "Escala Abreviada del Desarrollo – EAD - 3 ",
+        "proposito": "Identificar de manera temprana, el riesgo de retrasos en el desarrollo de niños con 7 años ya cumplidos. En general, el retraso en el desarrollo se emplea para evaluar a un niño o niña que no alcanza los hitos de desarrollo esperados para su edad, incluso después de considerar la amplia variación de la normalidad. ",
+        "instrumento": "Observación directa: Se examina la conducta del niño. La mayoría de los ítems de la escala corresponden a esta modalidad. Preguntas dirigidas: Se investiga el ítem interrogando al cuidador(a). ",
+        "validacion": "Unicef en Colombia, estableció que la Escala Abreviada del Desarrollo (EAD) fue seleccionada como prueba de referencia en Colombia por medio de una resolución. Aunque no es el “Gold estándar”, se haya que tiene una correlación moderada (r = 0,51). En este estudio se hizo aplicaron una prueba piloto con tres niños y se arrojaron los siguientes resultados: 1. “Se estableció la reproducibilidad entre evaluadores, obteniendo coeficientes Kappa > 0,70 para las 4 áreas evaluadas.” 2.“Correlación del p=0.96, lo que indica un puntaje casi perfecto” 3. “Tiene una validez de constructo, lo que quiere decir: Mide lo que pretende medir. “ ",
+        "referencias": "Autores, M. (s/f). Escala abreviada de desarrollo-3. Recuperado el 11 de noviembre de 2024, de https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/Escala-abreviada-de-desarrollo-3.pdf Camargo, L., María Solange, P. S., & Yuri Liseth, S. M. (21-Ene-2020). Confiabilidad y validez de un cuestionario de desarrollo infantil en encuestas nacionales. Rev. chil. pediatr. https://doi.org/10.32641/rchped.v91i1.903 ",
+        "imagen": "https://i.postimg.cc/jSLmBBHb/thumb-1200-1553.png"
+    },
+    {
+        "id": 25,
+        "nombre": "Patrones fundamentales de movimiento de Mc Clenaghan y Gallahue",
+        "proposito": "Evaluar cualitativamente los patrones motores tanto locomotores como manipulativos de los niños y referenciarlos de acuerdo a sus características en uno de tres estadios, inicial, elemental y maduro, a través de la observación de cinco patrones.  ",
+        "instrumento": "Los cinco patrones por evaluar permitirán la clasificación en alguno de los tres estadios teniendo en cuenta la ejecución del movimiento generalmente desde los brazos, el tronco y las piernas. Se cuenta con una hoja de evaluación, la cual contendrá instrucciones verbales sugeridas al evaluador al indicar la realización del movimiento, así como para cada uno de los segmentos una descripción con respecto a los posibles hallazgos en los estadios. ",
+        "validacion": "Validez de constructo: Mide en un 89% los significados de los patrones motrices. Validez de contenido: Domina el contenido de manera clara y eficiente lo que presume un contenido que mide lo que se pretende medir. Confiabilidad: Se cálculo con el coeficiente de Pearson con un porcentaje del 80%, lo que quiere decir una correlación fuerte. ",
+        "referencias": "Jimenes, J., Salazar, M. Y Morera, M. (2013). Diseño y validación de un instrumento para la evaluación de patrones básicos de movimiento. Recuperado de: https://dialnet.unirioja.es/servlet/articulo?codigo=4775784 McClenaghan, B Y Gallahue, D. (1985). Movimientos Fundamentales: su desarrollo y rehabilitación. Ed. Médica Panamericana, Buenos Aires. Recuperado de: https://sncpharma.com/wp-content/uploads/2019/07/Movimiento-fundamentales.-Su-desarrollo-y-rehabilitacion.pdf Villouta, P., Rodríguez, V., Sandoval, M. Y Carreño, M. (2016). Análisis de patrones motores fundamentales en niños de 4 y 5 años de colegios particulares subvencionados de concepción. Revista ciencias de la actividad física, vol. 17, núm. 2, pp. 19-28, 2016.",
+        "imagen": "https://i.postimg.cc/QxLqjwZD/patrones-basicos-del-movimiento-en-educacion-fisica-01.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "Batería Psicomotora (BPM) de Vítor Da Fonseca ",
+        "proposito": "Análisis cualitativo de la disfunción psicomotora que está inmersa en el aprendizaje del niño, intentando comprender como trabaja el cerebro y las bases de los procesos mentales de la psicomotricidad. ",
+        "instrumento": "Conjunto de tareas que permite detectar déficits funcionales en términos psicomotores, teniendo en cuenta la integración sensorial y el potencial de aprendizaje del niño. ",
+        "validacion": "Según este estudio realizado en Pereira, Para la confiabilidad se encuentra la correlación del Alfa de Cronbach con un valor de fiabilidad de 0.6 o 0.5, lo que quiere decir “Confiable”. Frente a la validez cuenta con una buena consistencia interna lo que traduce en que “mide lo que pretende medir en todos sus ítems”",
+        "referencias": "Vitor, D. F. (1998). Manual de observación psicomotriz. Inde publicaciones. https://books.google.es/books?id=kNrRlgjAoYEC&lpg=PA7&ots=yHuCWVpR5Q&dq=Bater%C3%ADa%20Psicomotora%20(BPM)%20de%20V%C3%ADtor%20Da%20Fonseca%20&lr&hl=es&pg=PA107#v=onepage&q&f=false Nelson Mauricio, S. A. (2015). Analisis de confiabilidad de la batería psicomotora (BPM) de victor fonseca y su correlaciónn con el rendimiento académico en niños de 6 años que inician proceso escolar en la institución educativa San Nicolás [Universidad Católica de Pereira ]. https://repositorio.ucp.edu.co/server/api/core/bitstreams/c77b693f-226f-4b54-b5e6-4e32428b969a/content",
+        "imagen": "https://i.postimg.cc/cLtZfv5w/cuales-son-los-componentes-de-la-bateria-de-fonseca-1.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "GMFCS – Gross Motor Function Classification System ",
+        "proposito": "Herramienta que clasifica a los niños con parálisis cerebral en cinco niveles según sus capacidades motoras gruesas.  ",
+        "instrumento": "Esta escala se basa en el movimiento que los niños inician voluntariamente, como sentarse, caminar o usar dispositivos de movilidad. ",
+        "validacion": "La validez de criterio arrojo un coeficiente de correlación de Pearson (0,718), lo que quiere decir correlación positiva fuerte. En la validez de constructo se hayo que cumple con los criterios de que “Mide lo que pretende medir”. Consistencia interna: El alfa de Cronbach con un resultado para la escala total de 0,87.",
+        "referencias":  "Barria Aburto, P., Barria Ruiz, V., Castillo Aguilar, M., Aguilar Cárdenas, R., Andrade Gallardo, A., & Núñez-Espinosa, C. (2022). Caracterización funcional de pacientes con parálisis cerebral que viven en la región de Magallanes y la Antártica Chilena. Andes pediátrica: revista chilena de pediatría, 93(3), 361. https://doi.org/10.32641/andespediatr.v93i3.3636 Palisano, R., Rosenbaum, P., Bartlett, D., & Livingston, M. (s/f). GMFCS – E & R Clasificación de la Función Motora Gruesa Extendida y Revisada. Canchild.ca. Recuperado el 12 de noviembre de 2024, de https://canchild.ca/system/tenon/assets/attachments/000/000/079/original/GMFCS-ER_Translation-Spanish.pdf Carreño-Mora, F., Ortiz-Corredor, F., Espinosa-García, E., & PérezHernández, C. E. (Agosto 2015). Validación de un instrumento para evaluar la carga del cuidador en parálisis cerebra. Revista de Salud Pública, 578–588.",
+        "imagen":"https://i.postimg.cc/4nCPMFsJ/Five-Gross-Motor-Function-Classification-System-GMFCS-Expanded-and-Revised-levels-as.png' border='0' alt='Five-Gross-Motor-Function-Classification-System-GMFCS-Expanded-and-Revised-levels-as"
+    }, 
+    {
+        "id": 28,
+        "nombre": "GMFM – Gross Motor Function Measure ",
+        "proposito": "Herramienta que clasifica a los niños con parálisis cerebral según sus capacidades motoras gruesas y con niños afines a su edad cronológica. ",
+        "instrumento": "Prueba que evalúa en un ambiente controlado los patrones locomotores y no locomotores, con el fin de observar sus capacidades motoras gruesas. ",
+        "validacion": "Muestra una alta sensibilidad frente a los cambios de la función motora de los niños con Parálisis Cerebral. Validez de contenido: Evita conclusiones no validas a partir de la prueba, mide la capacidad de la prueba para determinar las personas realmente enfermas cuando este sea dispositivo. Validez de constructo: Definición conceptual del constructo que debe ser medido y se relaciona con los criterios de la evidencia. Confiabilidad: Una medición precisa que se presenta exactamente con lo que se mide. Contiene consistencia interna, Test-retest y consistencia inter e intra observador.",
+        "referencias": "Palisano, R., Rosenbaum, P., Bartlett, D., & Livingston, M. (s/f). GMFCS – E & R Clasificación de la Función Motora Gruesa Extendida y Revisada. Canchild.ca. Recuperado el 12 de noviembre de 2024, de https://canchild.ca/system/tenon/assets/attachments/000/000/079/original/GMFCS-ER_Translation-Spanish.pdf Institute for Applied Health Sciences, McMaster University. (s/f). GROSS MOTOR FUNCTION MEASURE (GMFM-SP) HOJA DE PUNTUACIÓN (GMFM-88 y GMFM-66). https://doi.org/.http://motorgrowth.canchild.ca/en/GMFCS/resources/GMFCS-ER.pdf",
+        "imagen": "https://i.postimg.cc/MTH8KXRn/1.png"
+    }, 
+    {
+        "id": 29,
+        "nombre": "Quick DASH(Discapacidades de brazo, hombro y mano) ",
+        "proposito": "Trata de unificar en un solo instrumento la evaluación de la gran mayoría o todas las patologías de la extremidad superior del adulto. ",
+        "instrumento": "Cuestionario autoadministrado. ",
+        "validacion": "Estudio 1: Confiabilidad Test re-test: Con un coeficiente de correlación de alfa de Conbrach entre los dos valores fue de 0,97. Y con un intervalo de confianza del 95%. Validez de constructo: Se encontró que la escala del Quick DASH permite diferenciar entre las patologías distales de la mano, pero no así para las proximales, sin embargo, no es una escala pensada para este fin. Estudio 2: Validez de constructo por severidad: Ayuda a discriminar las condiciones por la gravedad de la enfermedad y los niveles de compromiso funcional. Para la consistencia interna se hayo que el resultado del alfa de Cronbach fue estimado con resultado >0,96 para los 30 ítems de la escala. Estimación de Test re-test: El resultado del coeficiente de concordancia de Lin fue 0,86; IC95%: de 0,76 a 0,95, lo que quiere decir “pobre”, no es confiable el test re-test.",
+        "referencias": "González, G. L. A. G., Sierra, S. F. A., & Ricardo, R. M. C. R. (2018). Validación de la versión en español de la escala de función del miembro superior abreviada: Quick Dash. Revista Colombiana de Ortopedia y TraumatologíA/Revista Colombiana de Ortopedia y Traumatología, 32(4), 215-219. https://doi.org/10.1016/j.rccot.2017.06.012 García González, L. A., Aguilar Sierra, F. J., Moreno Serrano, C., & Enciso, M. (2020). Traduccion, adaptacion cultural y validacion de una escala de funcion del miembro superior: DASH. Revista colombiana de ortopedia y traumatologia, 34(3), 231–240. https://doi.org/10.1016/j.rccot.2017.06.011",
+        "imagen": "https://i.postimg.cc/Ss9bz3T4/thumb-1200-1600.png"
+    },
+    {
+        "id": 30,
+        "nombre": "Roland-Morris Disability Questionnaire",
+        "proposito": "Determinar de manera fiable el grado de incapacidad física derivado de la lumbalgia inespecífica. ",
+        "instrumento": "El cuestionario se tiene que usar en pacientes con lumbalgia que sepan leer, aunque lo hagan con dificultad o no tengan estudios, y está diseñado para ser usado especialmente en Atención Primaria. ",
+        "validacion": "Consistencia interna: El Alfa de Cronbach del RDQ fue de 0,81 y para la versión de 6 ítems fue de 0,78, por lo tanto, una consistencia interna adecuada. Validez convergente: Muestra una relación positiva que es significativa entre discapacidad y dolor. En cuanto a la validez de constructo, el análisis factorial realizado mostró una estructura unidimensional del RDQ. Esto es consistente con los hallazgos de las validaciones gujarati y japonesa.",
+        "referencias": "Kovacs, F. M. (2005). El uso del cuestionario de Roland-Morris en los pacientes con lumbalgia asistidos en Atención Primaria. Semergen, 31(7), 333–335. https://doi.org/10.1016/s1138-3593(05)72944-0 Eliana, G., Susan, G. y Policarpo, R. (2014). Adaptación cultural y validación de la versión chilena del Cuestionario de Discapacidad Roland-Morris. Rev.méd. Chile , 142 (6). https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0034-98872014000600005 Vista de Consistencia interna y validez convergente, discriminante y de criterio del Start Back Screening Tool en una muestra colombiana. (s/f). Edu.co. Recuperado el 12 de noviembre de 2024, de https://revistas.unal.edu.co/index.php/revfacmed/article/view/95638/88659",
+        "imagen": "https://i.postimg.cc/C1sJt4dD/2.png"
+    },
+    {
+        "id": 31,
+        "nombre": "Work Ability Index – WAI (Índice de Capacidad de Trabajo) ",
+        "proposito": "Indicador basado en la percepción del trabajador, que a partir de un cuestionario valora la capacidad del trabajador para el desempeño de su trabajo y estima su proyección en los sucesivos 2 años. ",
+        "instrumento": "Está compuesto por siete dimensiones y diez preguntas de las cuales se obtienen las puntuaciones. ",
+        "validacion": "Estudio transversal en argentina que mide la validez y la confiabilidad de la escala. Validez de constructo: Busca evaluar el grado en qué medida empírica refleja adecuadamente el significado real del concepto considerado. Logran definir el constructo “Capacidad para el trabajo”. Confiabilidad: Con un alfa de Cronbach de 0.80 lo que quiere decir un rango bueno.",
+        "referencias": "Peralta, N., Godoi Vasconcelos, A. G., Härter Griep, R., & Miller, L. (Mayo-agosto 2012). Validez y confiabilidad del Índice de Capacidad para el Trabajo en trabajadores del primer nivel de atención de salud en Argentina. Salud Colectiva, 8(2), 163–173. https://www.redalyc.org/pdf/731/73123079004.pdf Rodríguez, G., López, G. M., & Marrero, M. L. (s/f). CONFIABILIDAD TEST-RETEST DEL TEST-RETEST RELIABILITY OF THE CUESTIONARIO “ÍNDICE DE WORK ABILITY INDEX IN HEALTH CAPACIDAD DE TRABAJO” EN WORKERS OF HOSPITAL TRABAJADORES DE LA SALUD DE. Medigraphic.com. Recuperado el 12 de noviembre de 2024, de https://www.medigraphic.com/pdfs/revcubsaltra/cst-2013/cst132h.pdf",
+        "imagen": "https://i.postimg.cc/Y04Ggrc9/1.webp"
+    }, 
+    {
+        "id": 32,
+        "nombre": "Maslach Burnout Inventory - MBI",
+        "proposito": "Mide el síndrome de agotamiento en adultos que trabajan en diferentes entornos laborales, también funciona para detectar el síndrome de burnout.",
+        "instrumento": "Instrumento conformado por 22 ítems que se valoran con una escala de frecuencia de siete grados. ",
+        "validacion": "Confiabilidad: Alfa de conbrach que nos indica una buena consistencia interna con un valor de 0,8 con un valor aceptable. Validez de contenido: El criterio que mide el instrumento de evaluación refleja de manera adecuada el dominio de contenido que se pretende medir, frente a los 25 ítems.",
+        "referencias": "Olivares Faúndez, V. E., & Gil-Monte, P. R. (s/f). ANALYSIS OF THE MAIN STRENGTHS AND wEAKNESS OF THE MASLACH BURNOUT INVENTORY (MBI). Roderic.uv.es. Recuperado el 12 de noviembre de 2024, de https://roderic.uv.es/rest/api/core/bitstreams/472d795b-926b-4599-9d18-bedf6db203c6/content",
+        "imagen":"https://i.postimg.cc/xdTK8Sdk/images.png"
+    },
+    {
+        "id": 33,
+        "nombre": "Multidimensional Assessment of Interoceptive Awareness - MAIA",
+        "proposito": "Es un instrumento diseñado para evaluar la conciencia interoceptiva.",
+        "instrumento": "Es un instrumento diseñado para evaluar la conciencia interoceptiva. Cuestionario con 32 ítems en una escala de Likert, con 6 niveles, en los que 0 es nunca y 5 siempre.",
+        "validacion":  "El número de ítems y la fiabilidad establecida por el alfa de Cronbach (α), varían entre las subescalas: darse cuenta (cuatro ítems, α=0,69), no distraerse (tres ítems, α=0,66), no preocuparse (tres ítems, α=0 67), Regulación de la atención (siete ítems, α=0,87), Conciencia emocional (cinco ítems, α=0,82), Autorregulación (cuatro ítems, α=0,83), Escucha corporal (tres ítems, α=0,82) y Confianza (tres ítems, α=0,79). La versión española de la escala mantuvo la extensión, el formato y la estructura dimensional de la versión original.",
+        "referencias": "Object], [object. (s. f.). Psychometric properties of the multidimensional assessment of interoceptive awareness (MAIA) in a Chilean population. Core.ac.uk, de https://core.ac.uk/download/pdf/82864850.pdf Montoya-Hurtado, O.; Gómez-Jaramillo, N.; Bermúdez-Jaimes, G.; Correa-Ortiz, L.; Cañón, S.; Juárez-Vela, R.; Santolalla-Arnedo, I.; Criado-Pérez, L.; Pérez, J.; Sancho-Sánchez, MC; Criado-Gutiérrez, J. Propiedades Psicométricas del Cuestionario de Evaluación Multidimensional de la Conciencia Interoceptiva (MAIA) en Estudiantes Universitarios Colombianos. J. Clin. Medicina. 2023, 12 , 2937. https://doi.org/10.3390/jcm12082937",
+        "imagen": "https://i.postimg.cc/VN6C1B7n/MAIA-2-assess-awareness-of-bodily-sensations-interoception-form.png"
+    }, 
+    {
+        "id": 34,
+        "nombre": "Scale of Body Connection- SBC ",
+        "proposito": "Abordar la necesidad de una medida de auto informe para examinar la conciencia y la disociación corporales en las investigaciones mente-cuerpo. ",
+        "instrumento": "20 ítems y evalúa dos dimensiones distintas: la conciencia y disociación corporal ",
+        "validacion": "El índice de confiabilidad (α de Cronbach: 0,87) nos muestra que este es un instrumento consistente y homogéneo en la valoración que hace en la población estudiada sobre la conciencia y disociación corporal hacia las personas con una enfermedad mental. Validez de apariencia: Medida que se basa en juicios subjetivos para determinar si un instrumento parece medir lo que pretende. Validez de constructo: El concepto cumple las consideraciones para medir lo que pretende medir.",
+        "referencias": "Alba Maldonado, JC, Vargas Rodríguez, LJ, & Gordillo Navas, G. (2021). Validación al castellano de la Body Responsiveness Connection Scale (Escala de Respuesta Corporal (ERC) en médicos internos del hospital San Rafael de Tunja en Colombia. Revista de neuro-psiquiatria , 84 (3), 159–164. https://doi. Org/10.20453/rnp.v84i3.4032 ",
+        "imagen": "https://i.postimg.cc/VLnTBXWq/Sin-t-tulo-60.png"
     }
 
 ]
