@@ -79,7 +79,7 @@
         "validacion": "Ostolaza, M., Abudarham, J., Dilascio, S., Drault-Boedo, E., Gallo,S., Garcete, A., Kramer, M., Maiarú, M., Mendelevich, A., Módica, M., Peralta,F. y Sánchez, C. (2017). Herramientas de evaluación del uso fino de la mano y uso de la mano y el brazo en sujetos con secuela de ictus: revisión sistemática. Recuperado de: https://www.researchgate.net/profile/Alejandro-Mendelevich-2/publication/316141163_Hand_fine_motor_skills_and_use_of_both_hand_and_arm_in_subjects_after_a_stroke_A_systematic_review/links/58f212aeaca27289c2166fd",
         "referencias": "Evaluación y Medición - Cuestionario de Abilhand. (s/f). Google.com. Recuperado el 6 de noviembre de 2024, de https://sites.google.com/view/evaluacionymedicion/todas-las-escalas/cuestionario-de-abilhand",
         "imagen": "https://i.postimg.cc/BZhcL92x/ABILHAND-Spanish-Espanol.jpg"
-    }, 
+    },
     {
         "id": 10,
         "nombre": "RIVERMEAD MOBILITY INDEX",
@@ -88,6 +88,69 @@
         "validacion": "No tiene",
         "referencias": "Recursosfisioterapia. (2024, junio 17). El Índice de movilidad de Rivermead - Rivermead Mobility Index - Análisis Completo. Recursos de Fisioterapia. https://recursosfisioterapia.com/valoracion_en_fisioterapia-el-indice-de-movilidad-de-rivermead-rivermead-mobility-index/",
         "imagen": "https://i.postimg.cc/7ZzgW5dV/RIVERMEAD-MOBILITY-INDEX-1.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Jebsen Taylor hand function test- JTHFT",
+        "proposito": "La prueba de función de la mano de Jebsen-Taylor (JTHFT) es una medida estandarizada y objetiva de la función motora fina y gruesa de la mano utilizando objetos pequeños, alimentación simulada, apilamiento y levantamiento de objetos grandes, livianos y pesados. JTHFT encuentra una fácil aplicabilidad en entornos clínicos, ya que se puede administrar en poco tiempo mediante el uso de materiales fácilmente disponibles.",
+        "instrumento": "Esta prueba incluye una serie de siete subpruebas que resaltan la motricidad fina, la función de la mano ponderada y no ponderada en la AVD",
+        "validacion": "Esta es una escala que se encuentra validada al inglés y portugués, pero no al español",
+        "referencias": "Jebsen-Taylor hand function test. (s/f). Kozyavkin.com. Recuperado el 24 de noviembre de 2023, de https://kozyavkin.com/en/science/blog/news/jebsen-taylor-hand-function-test/ \n Muñoz Gómez, C. (2022). Revisión bibliográfica: eficacia de la terapia de observación acción en niños con parálisis cerebral (Master's thesis, Universidad Internacional de Andalucía).",
+        "imagen": "https://i.postimg.cc/fWgqXs8q/0.webp"
+    },
+    {
+        "id": 12,
+        "nombre": "Mini – mental state examination",
+        "proposito": "Es utilizada para evaluar el estado cognitivo de una persona",
+        "instrumento": "Formato del mini-examen del estado mental ■ Bolígrafo ■ Hoja de papel para la orden verbal. ■ Espacio privado, ventilado, iluminado, libre de distracciones.",
+        "validacion": "Por medio de la resolución 3280 de 2018 que fue propuesta por Minsalud que es el documento base para analizar y estudiar instrumentos que cuentan su aval para determinada población, a raiz de esto se crean los objetivos que es: realizar un análisis cualitativo de diferentes instrumentos, como: la escala de minimental, familiograma, ecomapa, bartel etc., que permitan la autonomía de los adultos de una manera integral. El resultado que arrojo el artículo es que la escala minimental fue validad por Minsalud, esta misma estudia el deterioro cognitivo, fue realizada a una población de 4034 adultos. Esa misma validación fue estudiada en paralelo con la evaluación cualitativa de tipo clasificación, reducción y selección dando resultados eficaces.",
+        "referencias": "(S/f). Enfermeriabuenosaires.com. Recuperado el 6 de noviembre de 2024, de https://enfermeriabuenosaires.com/escala-mini-mental-state-examination/",
+        "imagen": ""
+    },
+    {
+        "id": 13,
+        "nombre": "MACS- sistema de clasificación de la habilidad",
+        "proposito": "Los niveles se basan la capacidad del niño para auto-iniciar la habilidad para manipular objetos y su necesidad de asistencia o de adaptación para realizar actividades manuales en la vida cotidiana (Sistema de clasificación de la habilidad manual en parálisis cerebral infantil",
+        "instrumento": "Los niveles se basan en la facilidad que tengan los niños para manipular objetos y en el grado de asistencia que requieran, van del nivel 1 (trata los objetos fácilmente y con éxito) al nivel 5 (no manipula objetos y presenta capacidades limitadas para realizar acciones más simples). La puntuación está diseñada para reflejar el rendimiento típico del niño en situaciones de la vida cotidiana. En done 1 es independencia completa y 5 es dependencia completa es decir El nivel I incluye a los niños con limitaciones funcionales leves; los niños con graves limitaciones, en cambio, estarían en niveles IV y V. Los niños normalmente desarrollados se incluirían en un supuesto nivel 0. (López, s/f) ",
+        "validacion": "Traducida al español en ella se enfatiza los conceptos inherentes a la clasificación internacional de funcionamiento, discapacidad y salud (cif) esta escala clasifica la habilidad para manipular objetos en actividad de la vida diaria en niño con parálisis cerebral.",
+        "referencias": "Pérez-Flores, E., Guerra-Navarro, F., Cedillo-Maradiaga, A., Parodi-Carbajal, A., & Macías-Hernández, I. (2013). Evaluación de la función motora gruesa y habilidad manual como parámetros de integración escolar de adolescentes con parálisis cerebral. Rev Mex Med Fis Rehab, 25(3-4), 94-99",
+        "imagen": "https://i.postimg.cc/Y9jF159M/MACS-Spanish-1.png"
+    },
+    {
+        "id": 14,
+        "nombre": "ECOG (eastenn cooperative oncology group) performance status scale",
+        "proposito": "Su principal propósito es evaluar como la enfermedad afecta a las habilidades de vida diaria del paciente, y a partir de esto sea posible determinar el tratamiento adecuado y evaluar el pronostico",
+        "instrumento": "Es una escala de estado de rendimiento, la cual se comprende como una medida altamente utilizada para describir el nivel de funcionamiento de un paciente de cáncer en términos de su capacidad para cuidarse a si mismo , realizar actividades de la vida diaria y capacidades físicas tales como caminar y trabajar",
+        "validacion": "Se realiza búsqueda en bases de datos como El sevier, Scielo , Google académico, EBSCO host, entre otras. No fue posible encontrar un artículo con la validación en  es  español sobre el uso de esta escala, sin embargo fueron encontrados otros artículos con referencia confiabilidad en general.",
+        "referencias": "TEMA 6. ESCALAS DE VALORACIÓN. (s/f). Salusplay.com. Recuperado el 27 de noviembre de 2023, de https://www.salusplay.com/apuntes/cuidados-medico-quirurgicos/tema-6-escalas-de-valoracion",
+        "imagen": "https://i.postimg.cc/xCmKwG3m/imagen-3.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Europea organization for research and treatment of cancer quality of life questionnaire - c30 (EORTC QLQ-30)",
+        "proposito": "Es una herramienta ampliamente reconocida utilizada en el ámbito medico para evaluar la calidad de vida relacionada con la salud en pacientes diagnosticados con cáncer, donde abarca varios aspectos como; sintomáticos, funcionales y globales, que son cruciales para tener una evaluación completa del impacto del cáncer y su tratamiento en bienestar del paciente",
+        "instrumento": "Es crucial que el profesional sanitario proporcione un ambiente tranquilo y privado para que el paciente se sienta cómodo al compartir información que podría ser sensible",
+        "validacion": "Las investigaciones han demostrado que este cuestionario posee una alta sensibilidad para detectar las variaciones en las condiciones de vida de los pacientes, así como una especificidad considerable en distinguir entre los diferentes tipos y fases del cáncer, facilitando así una atención más personalizada y dirigida a las necesidades específicas de cada paciente",
+        "referencias": "",
+        "imagen": ""
+    },
+    {
+        "id": 16,
+        "nombre": "Multidimensional fatigue symptom inventony- shont fonm",
+        "proposito": "Su propósito es evaluar el nivel de sensación de fatiga en las personas",
+        "instrumento": "Es un instrumento de autoinforme de 30 elementos diseñados para medir la fatiga general, la fatiga física, la fatiga emocional, la fatiga mental, y el vigor",
+        "validacion": "No se encuentra una validación certificada al uso de esta escala, pero si tiene muy buena validez por otros países",
+        "referencias": "Multidimensional Fatigue Symptom Inventory—short form. (s/f). Shirley Ryan AbilityLab. Recuperado el 28 de noviembre de 2023, de https://www.sralab.org/rehabilitation-measures/multidimensional-fatigue-symptom-inventory-short-form",
+        "imagen": ""
+    },
+    {
+        "id": 17,
+        "nombre": "OPUS (orthotics and prosthetics user´s survey)",
+        "proposito": "Cuestionario de auto informe utilizado en programas protésicos y ortopédicos con el fin de evaluar la calidad y mantener la conciencia de la mejora de las actividades, como también evalúa los cambios del estado funcional, calidad de vida y los dispositivos y servicios.",
+        "instrumento": "Consta de cinco módulos: 1. OPUS: Encuesta clínica. 2. OPUS: Índice de calidad de vida. 3. OPUS: Estado funcional de extremidad inferior. 4. OPUS: Estado funcional de la extremidad superior. 5.Opus: Satisfacción la ortesis o prótesis y sus servicios.",
+        "validacion": "No esta valida en Colombia Países validos: Estados Unidos, Reino Unido, Países Árabes ",
+        "referencias": "Shirley Ryan AbilityLab, (2015). ´´Orthotics Prosthetics Users Survey´´. Tomado de: https://www.sralab.org/rehabilitation-measures/orthotics-prosthetics-users-survey",
+        "imagen": "https://i.postimg.cc/1XBhKq2x/imagennn.png"
     }
 
 ]
