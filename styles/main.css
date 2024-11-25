@@ -3,23 +3,28 @@ body {
     margin: 0;
     padding: 0;
 }
+
 .hero {
     position: relative;
     text-align: center;
     color: white;
 }
+
 .hero img {
     width: 100%;
     height: auto;
 }
+
 .hero .navbar {
     position: absolute;
     top: 0;
     width: 100%;
     background-color: #c9e9fc;
     display: flex;
-    justify-content: center; /* Centra la barra de navegación */
+    justify-content: center;
+    /* Centra la barra de navegación */
 }
+
 .hero .navbar a {
     display: block;
     color: black;
@@ -28,10 +33,12 @@ body {
     text-decoration: none;
     font-weight: 800;
 }
+
 .hero .navbar a:hover {
     background-color: #8bd3f8;
     color: black;
 }
+
 .hero .title {
     position: absolute;
     top: 50%;
@@ -41,6 +48,17 @@ body {
     font-size: 105px;
     color: black;
 }
+
+.center {
+    background-color: #cdcdcdcd;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    height: 40vh;
+}
+
 footer {
     background-color: #c9e9fc;
     color: black;
