@@ -11,6 +11,7 @@ function showDetails(data) {
     const params = getQueryParams();
     const item = data.find(d => d.id == params.id);
     if (item) {
+        document.getElementById('main_title').textContent = item.nombre;
         document.getElementById('detalle-titulo').textContent = item.nombre;
         document.getElementById('detalle-proposito').textContent = item.proposito;
         document.getElementById('detalle-instrumento').textContent = item.instrumento;

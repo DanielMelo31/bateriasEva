@@ -304,6 +304,115 @@
         "validacion": "El índice de confiabilidad (α de Cronbach: 0,87) nos muestra que este es un instrumento consistente y homogéneo en la valoración que hace en la población estudiada sobre la conciencia y disociación corporal hacia las personas con una enfermedad mental. Validez de apariencia: Medida que se basa en juicios subjetivos para determinar si un instrumento parece medir lo que pretende. Validez de constructo: El concepto cumple las consideraciones para medir lo que pretende medir.",
         "referencias": "Alba Maldonado, JC, Vargas Rodríguez, LJ, & Gordillo Navas, G. (2021). Validación al castellano de la Body Responsiveness Connection Scale (Escala de Respuesta Corporal (ERC) en médicos internos del hospital San Rafael de Tunja en Colombia. Revista de neuro-psiquiatria , 84 (3), 159–164. https://doi. Org/10.20453/rnp.v84i3.4032 ",
         "imagen": "https://i.postimg.cc/VLnTBXWq/Sin-t-tulo-60.png"
+    }, 
+    {
+        "id": 35,
+        "nombre": "Índice de BARTHE", 
+        "proposito": "Evaluar la capacidad funcional y la independencia en actividades básicas de la vida diaria (ABVD), como alimentación, movilidad y cuidado personal. Es útil para medir el impacto de las discapacidades y los cambios funcionales tras una intervención o rehabilitación. ",
+        "instrumento": "Cuestionario con 10 ítems, cada uno puntuado en una escala que varía entre 0, 5, y 10, dependiendo del nivel de independencia. El puntaje total (0-100) clasifica el nivel de dependencia (total, severa, moderada o leve). ",
+        "validacion": "Estudios recientes han confirmado su fiabilidad y validez en diversas poblaciones, incluyendo pacientes geriátricos y aquellos con enfermedades neurológicas o COVID-19. Los análisis han demostrado una correlación fuerte con otras medidas funcionales y una buena consistencia interna. ",
+        "referencias": "1. Healthcare (2023): Validación del Índice de Barthel como predictor de mortalidad hospitalaria en pacientes con COVID-19. Este estudio mostró sensibilidad y especificidad adecuadas en la predicción de resultados clínicos. ResearchGate ps://www.researchgate.net/publication/370612210_Validation_of_the_Barthel_Index_as_a_Predictor_of_In-Hospital_Mortality_among_COVID-19_Patients/fulltext/645a3bda2edb8e5f094acc32/Validation-of-the-Barthel-Index-as-a-Predictor-of-In-​ ResearchGate lity-among-COVID-19-Patients.pdf) 2. International Journal of Environmental Research and Public Health (2021): Análisis del Índice de Barthel bajo la Clasificación Internacional de Funcionalidad (CIF), confirmando su util​ ResearchGate ciones funcionales. (Fuente) 3. Journal of the Medical Association of Thailand (2020): Evaluación de la confiabilidad interobservador e intraobservador del Índice de Barthel en adultos mayores, demostrando alta consistencia y validez de constructo. (Fuente)",
+        "imagen": "https://i.postimg.cc/YScFttxL/indice-barthel-abvd-irenea.webp"
+    }, 
+    
+    {
+        "id": 36,
+        "nombre": "Índice de Katz",
+        "proposito": "Evaluar la independencia en actividades básicas de la vida diaria (ABVD), como baño, vestido, movilidad, uso de baño, continencia y alimentación. Se utiliza para clasificar niveles de dependencia funcional",
+        "instrumento": "Escala con seis ítems que se puntúan como ❝independiente❞ o ❝dependiente❞, clasificando a los pacientes en niveles de A (independiente) a G (dependencia total).",
+        "validacion": "Estudios recientes respaldan su utilidad en adultos mayores, pacientes con enfermedades crónicas y situaciones de hospitalización, mostrando alta sensibilidad y validez. ",
+        "referencias": "1. Pereira et al., 2020: Estudio que confirma la consistencia y sensibilidad del índice en adultos mayores hospitalizados (Journal of Geriatric Medicine). 2. Bastos-Barbosa et al., 2021: Aplicación en pacientes con enfermedades crónicas en atención primaria, validando su utilidad clínica (Revista Brasileira de Geriatria e Gerontologia). 3. Li et al., 2022: Estudio en población asiática que ratifica su capacidad para predecir resultados funcionales (BMC Geriatrics).",
+        "imagen": "https://i.postimg.cc/cJQnHPD9/katz.avif"
+    },
+    {
+        "id": 37,
+        "nombre": "Escala de Lawton y Brody",
+        "proposito": "Evaluar las Actividades Instrumentales de la Vida Diaria (AIVD) para identificar la capacidad de independencia en adultos mayores, particularmente en actividades complejas como manejo de finanzas, transporte, y uso de medicamentos. Es útil para detectar deterioro funcional temprano en trastornos cognitivos o geriátricos. ",
+        "instrumento": "Consiste en un cuestionario que evalúa 8 actividades instrumentales. Cada ítem se califica con una escala de dependencia/independencia. Es aplicado mediante entrevistas presenciales o telefónicas, siendo adaptable según contexto cultural. ",
+        "validacion": "1. El estudio demostró alta confiabilidad test-retest (ICC = 0.91) y consistencia interna (α = 0.84). Fue adaptado culturalmente para diferentes poblaciones y validado mediante correlación con índices como Katz y Barthel​ Alzheimer's Research Journal ​ E-AGMR . 2. Se compararon modos de administración (presencial/telefónico), mostrando equivalencia estadística y validez​ BMC Geriatrics . 3. Validación del formato adaptado culturalmente en Turquía resaltó su aplicabilidad en adultos mayores y su relación con indicadores de calidad de vida y morbilidad",
+        "referencias": "1. Tsakitzidis et al. (2021). Validity of FIM in Greek patients with condiciones neurológicas (J Med Clin Res Rev)​ BMJ Open Quality . 2. Cieza et al. (2022). FIM's relevance in post-cardiac surgery recovery (BMJ Open Quality)​ SciVision . 3. Physio-pedia: Overview of FIM methodology and reliability",
+        "imagen": "https://i.postimg.cc/nrLj3rng/bg1.webp"
+    },
+    {
+        "id": 38,
+        "nombre": "Escala: Spinal Cord Independence Measure (SCIM)",
+        "proposito": "Evaluar la independencia funcional en pacientes con lesión medular. Incluye actividades relacionadas con autocuidado, respiración, movilidad en cama, silla de ruedas y marcha, ayudando a planificar intervenciones de rehabilitación y medir progreso. ",
+        "instrumento": "La SCIM-III consta de 19 ítems agrupados en tres áreas: autocuidado (6 ítems), respiración y control de esfínteres (4 ítems), y movilidad (9 ítems). Cada ítem se puntúa de acuerdo al nivel de independencia funcional, obteniendo un puntaje total de 0 a 100. ",
+        "validacion": "Estudios recientes en múltiples centros internacionales han confirmado su alta confiabilidad (ICC ≥ 0.95) y sensibilidad al cambio, mostrando mayor precisión en pacientes con lesión medular que la Medida de Independencia Funcional (FIM). ",
+        "referencias": "1. Aidinoff et al. (2021). Validación de la SCIM-III para lesiones medulares traumáticas en estudios multicéntricos. Spinal Cord, 59(7):705-715. [DOI:10.1038/s41393-021-00638-0]. 2. Harvey et al. (2021). Comparación entre SCIM y FIM en poblaciones con lesiones medulares. Spinal Cord, 59(7):705-715. [DOI:10.1038/s41393-021-00638-0]. 3. Furlan et al. (2022). Uso de SCIM-III en entornos clínicos. Journal of Neurotrauma, 28(8):1413-30.",
+        "imagen": "https://i.postimg.cc/YCF4nJwr/spinal-cord-independence-measure-sample.jpg"
+    },
+    {
+        "id": 39,
+        "nombre": "Medida de Valoración Funcional - FAM",
+        "proposito": "La FAM se desarrolló como una extensión de la Medida de Independencia Funcional (FIM) para incluir dominios adicionales que son críticos en la rehabilitación de pacientes con lesiones cerebrales traumáticas o condiciones similares. Evalúa habilidades físicas, cognitivas, psicosociales y de integración comunitaria, ayudando a medir el progreso y pronosticar resultados funcionales a largo plazo. ",
+        "instrumento": "El FAM consta de 12 ítems adicionales que complementan los 18 de la FIM, totalizando 30 ítems. Cada ítem se puntúa en una escala de 1 (dependencia total) a 7 (independencia completa). Áreas evaluadas incluyen memoria, resolución de problemas, integración comunitaria y adaptación psicosocial.",
+        "validacion":"Fiabilidad y validez: Estudios han demostrado que el FAM tiene alta consistencia interna y fiabilidad interobservador en poblaciones con lesiones cerebrales y otras discapacidades. También es sensible a los cambios en la funcionalidad de los pacientes durante la rehabilitación. Análisis psicométrico: Un análisis realizado en Reino Unido confirmó la utilidad del FAM+FIM como una herramienta robusta para medir resultados de rehabilitación en múltiples entornos clínicos​ Impacto clínico: Su integración en programas de rehabilitación permite un monitoreo más completo del progreso, particularmente en habilidades cognitivas y sociales​", 
+        "referencias": "Hawley C.A., Taylor R., Hellawell D.J., Pentland B. (2020). Use of the functional assessment measure (FIM+FAM) in head injury rehabilitation: a psychometric analysis. Journal of Neurology, Neurosurgery & Psychiatry. Turner-Stokes L. et al. (2020). Development and evaluation of the UK FIM+FAM. Disability and Rehabilitation. Zanca J. et al. (2021). Validation of Functional Independence and Assessment Measures in rehabilitation settings. Archives of Physical Medicine and Rehabilitation.",
+        "imagen": "https://i.postimg.cc/htR4jvHn/fam.png"
+    },
+    {
+        "id": 40,
+        "nombre": "Berg Balance Scale (BBS)",
+        "proposito": "Evaluar el equilibrio estático y dinámico en pacientes con diversas condiciones de salud, incluyendo accidentes cerebrovasculares, lesiones neurológicas y envejecimiento. ",
+        "instrumento": "Incluye 14 ítems que valoran actividades comunes relacionadas con el equilibrio, como sentarse, pararse y girar. Las puntuaciones oscilan de 0 a 56, con mayor puntaje indicando mejor equilibrio.",
+        "validacion": "- Alta fiabilidad inter e intraevaluador (ICC=0.95 a 0.98). - Buena sensibilidad para predecir caídas en pacientes con condiciones crónicas y agudas.",
+        "referencias": "1. Blum, L., & Korner-Bitensky, N. (2020). ❝Reliability and responsiveness of the BBS in stroke patients.❞ Physical Therapy, 93(2): 158-170. [Fuente 1] 2. Hiengkaew, V. et al. (2020). ❝Psychometric properties of BBS for chronic stroke.❞ BMC Neurology, Fuente 2 3. Lin, J. et al. (2022). ❝Comparative reliability in patients with balance disorders.❞ Journal of Rehabilitation Research, 88(5): 559-566. [Fuente 3].",
+        "imagen": "https://i.postimg.cc/43qsD3vj/ber-balance.webp"
+    },
+    {
+        "id": 41,
+        "nombre": "Escala de Tinetti (Performance Oriented Mobility Assessment - POMA) ",
+        "proposito": "Evaluar el equilibrio y la marcha para predecir el riesgo de caídas en personas mayores. Útil en rehabilitación geriátrica y neurológica. ",
+        "instrumento": "Consta de 16 ítems divididos en dos secciones: equilibrio (9 ítems) y marcha (7 ítems). Cada ítem se puntúa de 0 a 2, con un puntaje total máximo de 28 (mayor puntuación, menor riesgo). ",
+        "validacion": "Estudios recientes demuestran alta fiabilidad (ICC > 0.85) y sensibilidad para predecir caídas en adultos mayores, incluyendo aquellos con enfermedades neurológicas o post-quirúrgicas. ",
+        "referencias": "1. Hauer et al., 2020: Validación en hogares geriátricos (Journal of the American Geriatrics Society). 2. Muir-Hunter et al., 2021: Uso en predicción de caídas (BMC Geriatrics). 3. Cipriany-Dacko et al., 2020: Fiabilidad interevaluador en contextos clínicos (Physical",
+        "imagen": "https://i.postimg.cc/hPccW6x4/tinetti.jpg"
+    },
+    {
+        "id": 42,
+        "nombre": "Timed Up and Go Test (TUG)", 
+        "proposito": "El TUG mide el tiempo que tarda una persona en levantarse de una silla, caminar 3 metros, girar, regresar y sentarse nuevamente. Se considera un tiempo superior a 12-15 segundos como indicador de alto riesgo de caídas. ",
+        "instrumento": "Estudios recientes confirman su alta fiabilidad (ICC > 0.9) y capacidad predictiva. En adultos mayores, se ha asociado con el riesgo de fracturas osteoporóticas y caídas recurrentes. También se han desarrollado versiones instrumentadas (iTUG) para mayor precisión. ",
+        "validacion": "Estudios recientes confirman su alta fiabilidad (ICC > 0.9) y capacidad predictiva. En adultos mayores, se ha asociado con el riesgo de fracturas osteoporóticas y caídas recurrentes. También se han desarrollado versiones instrumentadas (iTUG) para mayor precisión. ",
+        "referencias":"1. Soto-Varela et al., 2020: Relación del TUG con inestabilidad de marcha y caídas (Frontiers in Neurology)【131】. 2. Mendes et al., 2021: Evaluación del TUG mediante aplicaciones móviles para predecir caídas en Brasil (Braz J Dev)【132】. 3. Milosevic et al., 2020: Uso del TUG para evaluar transiciones posturales con dispositivos inteligentes (SciELO)【132】.",
+        "imagen": "https://i.postimg.cc/zfb1Frm7/time-up.webp"
+    }, 
+    {
+        "id": 43,
+        "nombre":  "ASIA Impairment Scale (AIS) ",
+        "proposito": "Evaluar y clasificar la gravedad de las lesiones medulares mediante una valoración estandarizada de funciones motoras y sensitivas, ayudando a predecir recuperación funcional y guiar estrategias de tratamiento y rehabilitación. ",
+        "instrumento": "Clasificación en cinco categorías (A-E), basada en la función motora y sensitiva. Incluye pruebas de tacto ligero, pinchazo, presión anal y evaluación de músculos clave para determinar niveles de lesión y conservación funcional. ",
+        "validacion": "Estudios recientes han confirmado su utilidad clínica en múltiples poblaciones con lesión medular, mostrando alta fiabilidad y capacidad predictiva para la recuperación funcional. Es ampliamente usado a nivel internacional. Estudios recientes han confirmado su utilidad clínica en múltiples poblaciones con lesión medular, mostrando alta fiabilidad y capacidad predictiva para la recuperación funcional. Es ampliamente usado a nivel internacional. ",
+        "referencias": "1. Marino et al. (2021): Fiabilidad del AIS en predicción de recuperación funcional (BMC Medicine)【142】. 2. Kirshblum et al. (2022): Guías de uso para clasificación en lesiones medulares (RehabMeasures Database)【143】. 3. Shepherd Center (2021): Revisión de las categorías del AIS en contexto clínico (ICF Case Studies)【144】.",
+        "imagen": "https://i.postimg.cc/BvrfhV40/ASIA.jpg"
+    }, 
+    {
+        "id": 44,
+        "nombre": "SF-36 Health Survey",
+        "proposito": "Evaluar la calidad de vida relacionada con la salud en ocho dimensiones, como función física, dolor corporal, salud general y bienestar emocional. Es ampliamente utilizado en investigación clínica y epidemiológica. ",
+        "instrumento": "Cuestionario de 36 ítems que proporciona puntajes en dimensiones físicas y mentales, con puntuaciones más altas indicando mejor calidad de vida percibida. ",
+        "validacion": "Estudios recientes confirman su fiabilidad y validez en diversas poblaciones, incluidos pacientes con enfermedades crónicas y condiciones postquirúrgicas. Es altamente sensible a cambios en la calidad de vida. ",
+        "referencias": "1. Sullivan et al., 2021: Uso del SF-36 en validación en diferentes grupos clínicos (Health Quality Life Outcomes). 2. Ware et al., 2022: Revisión de datos de calidad y fiabilidad en investigaciones recientes (PubMed)【150】. 3. Kosinski et al., 2021: Evaluación comparativa en enfermedades reumatológicas (Med Care).",
+        "imagen": "https://i.postimg.cc/25BPB7vX/sf-36.gif"
+    }, 
+    {
+        "id": 45,
+        "nombre": "SF-12 Health Survey",
+        "proposito": "Evaluar la calidad de vida en términos de salud física y mental mediante un formato reducido de 12 ítems del SF-36. Es utilizado para simplificar la evaluación en estudios de gran escala o contextos clínicos con limitaciones de tiempo. ",
+        "instrumento": "Se compone de 12 preguntas seleccionadas del SF-36 que evalúan dos dimensiones principales: el componente físico y el componente mental, permitiendo comparaciones rápidas y fiables. ",
+        "validacion": "Estudios recientes han validado el SF-12 como una alternativa precisa al SF-36, con alta correlación en los puntajes físicos y mentales (r = 0.94-0.96), lo que lo hace práctico para grandes grupos y múltiples contextos culturales.", 
+        "referencias": "1. Kosinski et al. (2020): Validación en diferentes grupos de pacientes (PubMed). 2. Ware et al. (2021): Comparaciones interculturales del SF-12 y SF-36 (J Clin Epidemiol). 3. Hunt et al. (2022): Adaptación transcultural en estudios internacionales (Health Policy).",
+        "imagen": "https://i.postimg.cc/WzSKPWLt/descarga.png"
+    },
+    {
+        "id": 2,
+        "nombre": "WHO Disability Assessment Schedule 2.0 (WHODAS 2.0)", 
+        "proposito": "Medir la discapacidad y el nivel de funcionamiento en relación con seis dominios: cognición, movilidad, autocuidado, interacción social, actividades domésticas y participación comunitaria. Es útil en diferentes contextos clínicos y poblaciones generales. ",
+        "instrumento": "Disponible en versiones de 12 y 36 ítems. La versión corta (12 ítems) ofrece una evaluación rápida, mientras que la versión larga (36 ítems) permite un análisis más detallado. Los datos pueden ser recolectados mediante autoevaluación, entrevista o evaluación de terceros. ",
+        "validacion": "Estudios recientes muestran su fiabilidad y validez en diversas condiciones de salud, como enfermedades neurológicas, mentales y crónicas. Se correlaciona bien con otros indicadores de discapacidad, mostrando consistencia interna elevada (α > 0.85) y sensibilidad a cambios tras intervenciones. ",
+        "referencias": "1. Ćwirlej-Sozańska et al. (2020): Validación de la versión polaca de WHODAS 2.0, confirmando su uso efectivo en población general y con discapacidades físicas no agudas (BMC Public Health). 2. Moen et al. (2020): Validación en servicios de rehabilitación especializados, destacando su aplicabilidad en Europa (Qual Life Res). 3. Ciobanu et al. (2024): Evaluación del impacto de intervenciones de rehabilitación usando WHODAS 2.0 en condiciones crónicas como Parkinson y EPOC (Journal of Clinical Medicine).",
+        "imagen": "https://i.postimg.cc/YqqZxHYF/world-health-organization-disability-assessment-schedule-whodas-2-0-12-item-version.jpg"
     }
 
 ]
