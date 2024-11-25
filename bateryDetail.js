@@ -15,6 +15,9 @@ function showDetails(data) {
         document.getElementById('detalle-titulo').textContent = item.nombre;
         document.getElementById('detalle-proposito').textContent = item.proposito;
         document.getElementById('detalle-instrumento').textContent = item.instrumento;
+        document.getElementById('detalle-puntuacion').textContent = item.puntuacion;
+        document.getElementById('detalle-modo').textContent = item.modo;
+        document.getElementById('detalle-poblacion').textContent = item.poblacion;
         document.getElementById('detalle-validacion').textContent = item.validacion;
         document.getElementById('detalle-referencias').textContent = item.referencias;
         var imageDetail = document.getElementById('detalle-imagen');

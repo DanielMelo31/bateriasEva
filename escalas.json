@@ -4,6 +4,9 @@
         "nombre": "ESCALA FANTASTICO",
         "proposito": "Permite identificar el estilo y la calidad de vida de una población en particular, es una herramienta breve y sencilla de aplicar",
         "instrumento": "Es una encuesta, la cual cuenta con 30 preguntas que exploran 10 categorías como: familiares y amigos, actividad física, nutrición, toxicidad, alcohol, sueño y estrés, tipo de personalidad y satisfacción escolar, imagen interior, control de salud y sexualidad y orden",
+        "puntuacion": "De 103 a 120: Felicitaciones. Tienes un estilo de vida fantastico De 85 a 102: buen trabajo De 73 a 84: adecuado, estas bien De 47 a 72: algo bajo, puedes mejorar De 0 a 46: estas en la zona de peligro",
+        "modo": "Se debe presentar el consentimiento informado y desarrollar una correcta explicación sobre la forma de la encuesta, debe ser respondida en un ambiente tranquilo y para mirar el avance se tiene que volver a aplicar de manera continua ",
+        "poblacion": "8 años en adelante",
         "validacion": "En el presente artículo se realizó una entrevista a 550 personas de nacionalidad colombiana, del departamento del Valle del Cauca, con una edad mayor a18 años (20 y 64 años) consideradamente sanos; esta entrevista era de forma auto-diligenciadas; la cual, se basaba en un estudio transversal, cuyo objetivo es evaluar la validez y la fiabilidad del cuestionario. Los resultados obtenidos se tomaron por medio de α de Cronbach; la cual, todos los ítems del cuestionario han presentado aceptabilidad mayor a 0.67, esto genera buena validez del constructo y de la confiabilidad; de tal forma que se propone como una herramienta sencilla para evaluar, sin embargo, el plan de Canadá afirma que esta escala debe que ser implementada a partir de 15 años.",
         "referencias": "López, Carmona JM, Ariza Andraca CR, Rodríguez Moctezuma JR, Munguía Miranda C. Construcción y validación inicial de un instrumento para medir el estilo de vida en pacientes con diabetes mellitus tipo 2. Salud Pública de México [en línea] 2003 [fecha de acceso 15 de agosto de 2013]; 45 (julio-agosto).Disponible en: https://www.redalyc.org/articulo.oa?id=10645404.",
         "imagen": "https://i.postimg.cc/65yqMFgL/Whats-App-Image-2024-11-06-at-6-30-19-PM-1.jpg"
@@ -13,6 +16,9 @@
         "nombre": "EURO QOL- 5 Dimension questionnaire",
         "proposito": "Es utilizada para evaluar la calidad de vida relacionada con la salud, para proporcionar una evaluación integral del estado de salud en diversas subpoblaciones y condiciones",
         "instrumento": "Se compone de dos partes principales: descripción del estado de salud (movilidad, autocuidado entre otras) y evaluación mediante una escala visual analógica ( mide el estado de salud )",
+        "puntuacion": "( 0) muerte a (1) salud perfecta, los resultados se utilizan para comparar el impacto de diferentes condiciones de salud y evaluar el resultado de diversas intervenciones medicas  ",
+        "modo": "Puede ser entrevista via telofonica o presencial 10 a 20 minutos  ",
+        "poblacion": "Hogares ancianos, entornos de atención aguda, rehabilitación y salud en el hogar ",
         "validacion": "Disponible en más de 150 idiomas, el EQ-5D se adapta a diversas culturas y contextos internacionales. Las traducciones validadas aseguran la consistencia y confiabilidad en diferentes poblaciones y regiones.",
         "referencias": "El Cuestionario de calidad de vida EuroQOL de 5 dimensiones - EuroQOL-5 Dimension Questionnaire - Análisis Completo - Recursos de Fisioterapia",
         "imagen": "https://i.postimg.cc/pLK27vZ8/euro.png"
@@ -22,6 +28,9 @@
         "nombre": "IPAQ",
         "proposito": "Evalua el nivel de actividad fisica de un individuo",
         "instrumento": "Se aplica de forma escrita o en entrevista y en este cuestionario podemos encontrarlo de forma larga o corta",
+        "puntuacion": "Actividad vigorosa: 8 METS, actividad  moderada : 4 METS y caminata 3.3 METS. Bajo nivel quiere decir que tiene un indice bajo de actividad fisica, nivel moderado quiere decir que alcanza la puntuación de al menos 600 METS y nivel alto realiza actividad física al menos 3 veces por semana",
+        "modo": "Forma escrita o por medio de entrevista y depende del cuestionario largo o corto, el largo dura de 15 a 30 minutos y el corto dura de 5 a 1o minutos esto depende el contexto de la persona ",
+        "poblacion":"15 A 69 años de edad  ",
         "validacion": "Si tiene validación en español ya que ha pasado por por evaluaciones para medir la actividad fisica de los individuos",
         "referencias": "Recursosfisioterapia. (2024, 22 febrero). ‘Cuestionario de Actividades Físicas (IPAQ)’ – Explicación completa y detallada. Recursos de Fisioterapia. https://recursosfisioterapia.com/cuestionario-de-actividades-fisicas-ipaq/",
         "imagen": "https://i.postimg.cc/B6n4XKGc/ipaq.png"
@@ -31,6 +40,9 @@
         "nombre": "ParQ",
         "proposito": "Permite evaluar la aptitud y seguridad de una persona antes de iniciar una actividad física.",
         "instrumento": "Preguntas sencillas y específicas, y debe responder SI O NO, con el fin de identificar si la persona necesita primero que lo valide el doctor para empezar a realizar actividad fisica",
+        "puntuacion": "i usted contesto NO a todas las preguntas, está en condiciones de realizar actividad física. Si usted contesto SI a una o más de las preguntas anteriores, tiene que ir al médico a que la evalué",
+        "modo": "La persona marca si SI  o NO de acuerdo con su condición  de salud dura de 5  a 10 minutos ",
+        "poblacion":"15 años en adelante ",
         "validacion": "Cribado PAR-Q en forma remota, estudiantes universitarios en tiempo de pandemia Covid-19 LINK: Cribado PAR-Q en forma remota, estudiantes universitarios en tiempo de pandemia Covid-19",
         "referencias": "S/f). Enfermeriabuenosaires.com. Recuperado el 6 de noviembre de 2024, de https://enfermeriabuenosaires.com/escala-mini-mental-state-examination/",
         "imagen": "https://i.postimg.cc/nL0tbhQs/Whats-App-Image-2024-11-06-at-7-05-12-PM.jpg"
@@ -40,6 +52,9 @@
         "nombre": "MOCA (montreal cognitive assesment)",
         "proposito": "MOCA  se detecta, de forma específica, el deterioro cognitivo leve",
         "instrumento": "Ha sido diseñado para hacer una evaluación cognitiva e identificar estadios tempranos de la demencia",
+        "puntuacion": "De cero a 30 puntos Los controles normales pueden arrojar como resultado un 27.4, mientras que las personas con deterioro cognitivo leve pueden resultar con un 22.1 quienes padecen de Alzahimer pueden dar con un puntaje de 16.1",
+        "modo": "Dura 10 minutos, formato, cronometro para medir el tiempo de cuanto dura realizando el test  ",
+        "poblacion":"49 a 85 años ",
         "validacion": "Confiabilidad, validez de criterio y discriminante del Montreal Cognitive Assessment (MoCA) test, en un grupo de adultos de Bogotá Link Redalyc.Confiabilidad, validez de criterio y discriminante del Montreal Cognitive Assessment (MoCA) test, en un grupo de adultos de Bogotá",
         "referencias": "Test de evaluación cognitiva de Montreal (MoCA), ¿qué mide? https://www.psicoactiva.com/blog/test-de-evaluacion-cognitiva-de-montreal/",
         "imagen": "https://i.postimg.cc/cCKWcGCv/MOCA.jpg"
@@ -49,6 +64,9 @@
         "nombre": "Escala de hoehn y Yahr",
         "proposito": "Mide el grado de recuperación motora en personas que han sufrido un ACV o daño cerebral",
         "instrumento": "Recuperación motora en datos objetivos y es la mas completa para cuantificar el deterioro motor",
+        "puntuacion": "O: No hay signos de la enfermedad 1: enfermedad solo lateral 1.5: afectación unilateral y axial 2.0: afectación bilateral sin alteración del equilibrio 2.5: afectación bilateral leve con recuperación en la prueba de retropulsión 3.0: afectación bilateral leve a moderada, cierta inestabilidad postural pero fisicamente independiente 4.0:  incapacidad grave, aun capaz de caminar o permanecer en pie sin ayuda 5.0: permanece en una silla de ruedas",
+        "modo": "Entrevista, examen medico 10 a 15 minutos y se aplica en cada cita que el paciente tenga  ",
+        "poblacion":"Personas mayores de 60 o que padezcan parkinson ",
         "validacion": "Validación transcultural de la evaluació fug meyer en pacientes con ACV en Colombia  Link: VALIDACIÓN TRANSCULTURAL DE LA EVALUACIÓN FUGL-MEYER EN ESPAÑOL: UN ESTUDIO EN PACIENTES CON ACV EN COLOMBIA | Fisioterapia mundial",
         "referencias": "Evaluación Fugl Meyer (FMA). (2016, octubre 20). Ocupacreando.com. https://www.ocupacreando.com/2016/10/20/evaluacion-fugl-meyer-fma",
         "imagen": "https://i.postimg.cc/DfDnw0pL/Hoehn-and-Yahr-Scale-1320x793.jpg"
@@ -58,6 +76,9 @@
         "nombre": "Fugl Meyer",
         "proposito": "Mide el grado de recuperación motora en personas que han sufrido un ACV o daño cerebral",
         "instrumento": "Recuperación motora en datos objetivos y es la mas completa para cuantificar el deterioro motor",
+        "puntuacion": "Tiene 13 items, cada items se puntua de 0,1,2 de menor a mayor funcionalidad y la puntuación total es de 226 puntos Función motora: 100 puntos Sensación: 24 puntos Equilibrio: 14 puntos Rango de movimiento articular: 44 puntos Dolor articular: 44 puntos",
+        "modo": "30 a 45 minutos el paciente debe estar en posició comoda, es importante que el paciente este  dispuesto a realizar algunas pruebas ",
+        "poblacion": "Pacientes con ACV",
         "validacion": "Validación transcultural de la evaluació fug meyer en pacientes con ACV en Colombia Link: VALIDACIÓN TRANSCULTURAL DE LA EVALUACIÓN FUGL-MEYER EN ESPAÑOL: UN ESTUDIO EN PACIENTES CON ACV EN COLOMBIA | Fisioterapia mundial",
         "referencias": "Evaluación Fugl Meyer (FMA). (2016, octubre 20). Ocupacreando.com. https://www.ocupacreando.com/2016/10/20/evaluacion-fugl-meyer-fma",
         "imagen": "https://i.postimg.cc/ZnPGHYZK/fugl-1.jpg"
@@ -67,6 +88,8 @@
         "nombre": "Motor Assessment Scale- MAS",
         "proposito": "Evaluar la función motora cotidiana en personas que han experimentado un accidente cerebrovascular",
         "instrumento": "Herramienta clinica utiliada para evaluar la función motora en pacientes con daños neurologicos",
+        "puntuacion": "Cada uno de los items evaluados se suma para proporcionar una puntuación total que puede llegar a un maximo de 48 puntos  ",
+        "modo": "Entrevista y evaluación del paciente 0 a 6 donde 0: no realiza actividad 1 a 3 : puede realizar el movimiento pero con limitación 4  6: realiza movimiento con una leve alteración",
         "validacion": "Se realiza búsqueda en bases de datos como El sevier, Scielo , Google académico, EBSCO host, entre otras. No fue posible encontrar un artículo con la validación en Colombia sobre el uso de esta escala, por ello no se adjunta",
         "referencias": "Recursosfisioterapia. (2024, junio 2). La Escala de evaluación motora - Motor Assessment Scale (MAS) - Análisis Completo. Recursos de Fisioterapia. https://recursosfisioterapia.com/valoracion_en_fisioterapia-la-escala-de-evaluacion-motora-motor-assessment-scale/",
         "imagen": "https://i.postimg.cc/zBZ2QmxL/MOTOR-ASSEMENT-MAS.png"
@@ -76,6 +99,9 @@
         "nombre": "CUESTIONARIO DE ABILHAND",
         "proposito": "Evalúa la capacidad bimanual y mide la discapacidad y limitación de la función manual de las personas, especialmente aquellas con discapacidades en las extremidades superiores o problemas de motricidad fina.",
         "instrumento": "Por medio de una entrevista se le pide al paciente que estime la facilidad o dificultad de realizar las tareas y actividades de manera independiente",
+        "puntuacion": "",
+        "modo": "",
+        "poblacion":"",
         "validacion": "Ostolaza, M., Abudarham, J., Dilascio, S., Drault-Boedo, E., Gallo,S., Garcete, A., Kramer, M., Maiarú, M., Mendelevich, A., Módica, M., Peralta,F. y Sánchez, C. (2017). Herramientas de evaluación del uso fino de la mano y uso de la mano y el brazo en sujetos con secuela de ictus: revisión sistemática. Recuperado de: https://www.researchgate.net/profile/Alejandro-Mendelevich-2/publication/316141163_Hand_fine_motor_skills_and_use_of_both_hand_and_arm_in_subjects_after_a_stroke_A_systematic_review/links/58f212aeaca27289c2166fd",
         "referencias": "Evaluación y Medición - Cuestionario de Abilhand. (s/f). Google.com. Recuperado el 6 de noviembre de 2024, de https://sites.google.com/view/evaluacionymedicion/todas-las-escalas/cuestionario-de-abilhand",
         "imagen": "https://i.postimg.cc/BZhcL92x/ABILHAND-Spanish-Espanol.jpg"
@@ -85,6 +111,9 @@
         "nombre": "RIVERMEAD MOBILITY INDEX",
         "proposito": "Es una herramienta de evaluación diseñada para medir la movilidad funcional en individuos que han sufrido un ictus, lesión cerebral adquirida, amputación de extremidad inferior o esclerosis múltiple",
         "instrumento": "Planes de tratamiento y monitorear la mejora o deterioro de la movilidad del paciente",
+        "puntuacion": "- Imposible - Difícil - Fácil",
+        "modo": "15 a 30 minutos ",
+        "poblacion":" Niños, niñas, adolescentes y adultos con deficiencias motrices en las extremidades superiores.",
         "validacion": "No tiene",
         "referencias": "Recursosfisioterapia. (2024, junio 17). El Índice de movilidad de Rivermead - Rivermead Mobility Index - Análisis Completo. Recursos de Fisioterapia. https://recursosfisioterapia.com/valoracion_en_fisioterapia-el-indice-de-movilidad-de-rivermead-rivermead-mobility-index/",
         "imagen": "https://i.postimg.cc/7ZzgW5dV/RIVERMEAD-MOBILITY-INDEX-1.jpg"
@@ -94,6 +123,9 @@
         "nombre": "Jebsen Taylor hand function test- JTHFT",
         "proposito": "La prueba de función de la mano de Jebsen-Taylor (JTHFT) es una medida estandarizada y objetiva de la función motora fina y gruesa de la mano utilizando objetos pequeños, alimentación simulada, apilamiento y levantamiento de objetos grandes, livianos y pesados. JTHFT encuentra una fácil aplicabilidad en entornos clínicos, ya que se puede administrar en poco tiempo mediante el uso de materiales fácilmente disponibles.",
         "instrumento": "Esta prueba incluye una serie de siete subpruebas que resaltan la motricidad fina, la función de la mano ponderada y no ponderada en la AVD",
+        "puntuacion": "La puntuación total es la suma del tiempo necesario para cada subprueba, que se redondea al segundo más cercano. Los tiempos más cortos indican un mejor rendimiento. ",
+        "modo": "Evalúa la motricidad fina y gruesa tiene como test como Voltear tarjetas de lado a lado con cada mano Recoger objetos pequeños y comunes (como monedas, tapas de botellas entre otras) para evaluar el tipo de pinza Fichas de apilamiento (prueba de coordinación ojo-mano) entre otras",
+        "poblacion":"Esta escala se usa en diferente población de pacientes con diagnóstico de: Lesión de la médula espinal ECV Parálisis cerebral Esclerosis múltiple Fracturas de mano y muñeca osteoartritis Artritis reumatoide Desde los 6 hasta los 65 años o mas",
         "validacion": "Esta es una escala que se encuentra validada al inglés y portugués, pero no al español",
         "referencias": "Jebsen-Taylor hand function test. (s/f). Kozyavkin.com. Recuperado el 24 de noviembre de 2023, de https://kozyavkin.com/en/science/blog/news/jebsen-taylor-hand-function-test/ \n Muñoz Gómez, C. (2022). Revisión bibliográfica: eficacia de la terapia de observación acción en niños con parálisis cerebral (Master's thesis, Universidad Internacional de Andalucía).",
         "imagen": "https://i.postimg.cc/fWgqXs8q/0.webp"
@@ -103,6 +135,9 @@
         "nombre": "Mini – mental state examination",
         "proposito": "Es utilizada para evaluar el estado cognitivo de una persona",
         "instrumento": "Formato del mini-examen del estado mental ■ Bolígrafo ■ Hoja de papel para la orden verbal. ■ Espacio privado, ventilado, iluminado, libre de distracciones.",
+        "puntuacion": "La puntuación obtenida donde la más alta esta entre 27-30 que en su interpretación es: no existe deterioro cognitivo y la puntuación mínima es: 6-9 que indica existe un deterioro cognitivo de moderado a severo. Entre 30 y 27 puntos: No existe deterioro cognitivo. Entre 26 y 25 puntos: Existen dudas o pudiera existir un posible deterioro cognitivo. Entre 24 y 10 puntos: Existe un deterioro cognitivo de leve a moderado. Entre 9 y 6 puntos: Existe un deterioro cognitivo de moderado a severo. Cuando la puntuación es menos que 6 posee un deterioro cognitivo grave.",
+        "modo": "5 a 10 minutos Serie de preguntas donde el fisio le pide al paciente que realice, evalúa áreas co",
+        "poblacion":"Adultos y personas mayores",
         "validacion": "Por medio de la resolución 3280 de 2018 que fue propuesta por Minsalud que es el documento base para analizar y estudiar instrumentos que cuentan su aval para determinada población, a raiz de esto se crean los objetivos que es: realizar un análisis cualitativo de diferentes instrumentos, como: la escala de minimental, familiograma, ecomapa, bartel etc., que permitan la autonomía de los adultos de una manera integral. El resultado que arrojo el artículo es que la escala minimental fue validad por Minsalud, esta misma estudia el deterioro cognitivo, fue realizada a una población de 4034 adultos. Esa misma validación fue estudiada en paralelo con la evaluación cualitativa de tipo clasificación, reducción y selección dando resultados eficaces.",
         "referencias": "(S/f). Enfermeriabuenosaires.com. Recuperado el 6 de noviembre de 2024, de https://enfermeriabuenosaires.com/escala-mini-mental-state-examination/",
         "imagen": ""
@@ -112,6 +147,9 @@
         "nombre": "MACS- sistema de clasificación de la habilidad",
         "proposito": "Los niveles se basan la capacidad del niño para auto-iniciar la habilidad para manipular objetos y su necesidad de asistencia o de adaptación para realizar actividades manuales en la vida cotidiana (Sistema de clasificación de la habilidad manual en parálisis cerebral infantil",
         "instrumento": "Los niveles se basan en la facilidad que tengan los niños para manipular objetos y en el grado de asistencia que requieran, van del nivel 1 (trata los objetos fácilmente y con éxito) al nivel 5 (no manipula objetos y presenta capacidades limitadas para realizar acciones más simples). La puntuación está diseñada para reflejar el rendimiento típico del niño en situaciones de la vida cotidiana. En done 1 es independencia completa y 5 es dependencia completa es decir El nivel I incluye a los niños con limitaciones funcionales leves; los niños con graves limitaciones, en cambio, estarían en niveles IV y V. Los niños normalmente desarrollados se incluirían en un supuesto nivel 0. (López, s/f) ",
+        "puntuacion": "Puntuación e interpretación Mirar el nivel de manipulación tienen los niños para medir el grado de asistencia Se mide de nivel 1 (nivel de independencia completa) a nivel 5 (dependencia completa) , esta puntuación está diseñada para reflejar el rendimiento típico del niño en situaciones de la vida cotidiana",
+        "modo": "Su desarrollo puede durar de 2 minutos o mas ",
+        "poblacion":"4- 18 años en pacientes con diagnósticos como: parálisis cerebral (hemipléjica o unilateral)",
         "validacion": "Traducida al español en ella se enfatiza los conceptos inherentes a la clasificación internacional de funcionamiento, discapacidad y salud (cif) esta escala clasifica la habilidad para manipular objetos en actividad de la vida diaria en niño con parálisis cerebral.",
         "referencias": "Pérez-Flores, E., Guerra-Navarro, F., Cedillo-Maradiaga, A., Parodi-Carbajal, A., & Macías-Hernández, I. (2013). Evaluación de la función motora gruesa y habilidad manual como parámetros de integración escolar de adolescentes con parálisis cerebral. Rev Mex Med Fis Rehab, 25(3-4), 94-99",
         "imagen": "https://i.postimg.cc/Y9jF159M/MACS-Spanish-1.png"
@@ -121,6 +159,9 @@
         "nombre": "ECOG (eastenn cooperative oncology group) performance status scale",
         "proposito": "Su principal propósito es evaluar como la enfermedad afecta a las habilidades de vida diaria del paciente, y a partir de esto sea posible determinar el tratamiento adecuado y evaluar el pronostico",
         "instrumento": "Es una escala de estado de rendimiento, la cual se comprende como una medida altamente utilizada para describir el nivel de funcionamiento de un paciente de cáncer en términos de su capacidad para cuidarse a si mismo , realizar actividades de la vida diaria y capacidades físicas tales como caminar y trabajar",
+        "puntuacion": "Valora a los pacientes de 0 a 5, donde 0 el paciente cuenta con buena calidad de vida y puede llevar a cabo todas las actividades sin restricciones y 5 quiere decir muerte del paciente. Item 0: asintomático. Totalmente activo. ECOG 1: restricción actividad intensa. Capaz de trabajoordinario. ECOG 2: ambulatorio y capaz de autocuidados. Incapazpara trabajar. Levantado más del 50 % del tiempo despierto. ECOG 3: capaz de algún autocuidado. Vida cama-sillónmásdel 50% del tiempo despierto. ECOG4: incapacidad total. Silla-cama el 100% del tiempo despierto. - ECOG 5: Muerto. (TEMA 6. ESCALAS DE VALORACIÓN)",
+        "modo": "Evalúa la calidad de vida, pero específica en pacientes oncológicos. - Está validada por la OMS. - Considera los posibles cambios continuos y rápidos de las expectativas de vida. - Evalúa el efecto de las quimioterapias en los pacientes Duración de prueba: 5 minutos",
+        "poblacion":"Pacientes diagnosticados con cáncer ",
         "validacion": "Se realiza búsqueda en bases de datos como El sevier, Scielo , Google académico, EBSCO host, entre otras. No fue posible encontrar un artículo con la validación en  es  español sobre el uso de esta escala, sin embargo fueron encontrados otros artículos con referencia confiabilidad en general.",
         "referencias": "TEMA 6. ESCALAS DE VALORACIÓN. (s/f). Salusplay.com. Recuperado el 27 de noviembre de 2023, de https://www.salusplay.com/apuntes/cuidados-medico-quirurgicos/tema-6-escalas-de-valoracion",
         "imagen": "https://i.postimg.cc/xCmKwG3m/imagen-3.jpg"
@@ -130,6 +171,9 @@
         "nombre": "Europea organization for research and treatment of cancer quality of life questionnaire - c30 (EORTC QLQ-30)",
         "proposito": "Es una herramienta ampliamente reconocida utilizada en el ámbito medico para evaluar la calidad de vida relacionada con la salud en pacientes diagnosticados con cáncer, donde abarca varios aspectos como; sintomáticos, funcionales y globales, que son cruciales para tener una evaluación completa del impacto del cáncer y su tratamiento en bienestar del paciente",
         "instrumento": "Es crucial que el profesional sanitario proporcione un ambiente tranquilo y privado para que el paciente se sienta cómodo al compartir información que podría ser sensible",
+        "puntuacion": "es fundamental para evaluar el impacto de la enfermedad y del tratamiento en la calidad de vida de los pacientes oncológicos. Este instrumento comprende múltiples dimensiones, incluyendo síntomas físicos, funcionamiento psicológico y social. Cada escala se puntúa de 0 a 100. En las escalas de funcionamiento, un puntaje más alto indica una mejor calidad de vida, mientras que en las escalas de síntomas, un puntaje más alto refleja una mayor severidad de los síntomas. Por ejemplo, en el caso del dolor un valor cercano a 100 sugiere una experiencia de dolor intensa, influyendo significativamente en la percepción de calidad de vida del paciente.",
+        "modo": "el profesional sanitario debe presentar el cuestionario al paciente, asegurándose de que este última entienda su propósito y cómo sus respuestas contribuirán a mejorar su plan de tratamiento. Las instrucciones deben especificar claramente cómo responder a cada ítem, destacando que no hay respuestas correctas o incorrectas y fomentando la sinceridad. Cada una de las 30 preguntas del cuestionario está diseñada para evaluar diferentes aspectos de la calidad de vida relacionada con la salud, incluidas las áreas física, emocional y social, así como los síntomas específicos de la enfermedad",
+        "poblacion":"Son pacientes que están sometidos a tratamientos para combatir el cancer en especial Cáncer de colon Cáncer de cama Cáncer próstata avanzado Cáncer pulmón",
         "validacion": "Las investigaciones han demostrado que este cuestionario posee una alta sensibilidad para detectar las variaciones en las condiciones de vida de los pacientes, así como una especificidad considerable en distinguir entre los diferentes tipos y fases del cáncer, facilitando así una atención más personalizada y dirigida a las necesidades específicas de cada paciente",
         "referencias": "",
         "imagen": ""
@@ -139,6 +183,9 @@
         "nombre": "Multidimensional fatigue symptom inventony- shont fonm",
         "proposito": "Su propósito es evaluar el nivel de sensación de fatiga en las personas",
         "instrumento": "Es un instrumento de autoinforme de 30 elementos diseñados para medir la fatiga general, la fatiga física, la fatiga emocional, la fatiga mental, y el vigor",
+        "puntuacion": "Es más objetiva en el entorno laboral. - Caracteriza y diferencia los distintos tipos de fatiga. - Los resultados se articulan con síntomas de depresión, ansiedad o angustia. Evalúa: 1. Actividades de la vida diaria. 2. Participación. 3. Función corporal. 4. Estructura corporal. 5. Participación social. 6. Fuerza. 7. Cognición. 7. Sueño. 8.Duración 5 minutos Se puntúa de 0 a 4 0. Nada 1.un poco 2.Moderado 3.Bastante 4.Extremo Tiene una puntuación mínima de 24 puntos y una máxima de 96 puntos. Se suman los resultados de todos los dominios y se restan los resultados del dominio de vigor.",
+        "modo": "Es más objetiva en el entorno laboral. - Caracteriza y diferencia los distintos tipos de fatiga. - Los resultados se articulan con síntomas de depresión, ansiedad o angustia. Evalúa: Actividades de la vida diaria. Participación. Función corporal. Estructura corporal. Participación social. Fuerza. Cognición. Sueño. Duración 5 minutos",
+        "poblacion":"18 a 65 años o mas Adultos sanos pacientes con diagnostico de cáncer trasplante de órgano población de pacientes no especifica ",
         "validacion": "No se encuentra una validación certificada al uso de esta escala, pero si tiene muy buena validez por otros países",
         "referencias": "Multidimensional Fatigue Symptom Inventory—short form. (s/f). Shirley Ryan AbilityLab. Recuperado el 28 de noviembre de 2023, de https://www.sralab.org/rehabilitation-measures/multidimensional-fatigue-symptom-inventory-short-form",
         "imagen": ""
@@ -148,6 +195,9 @@
         "nombre": "OPUS (orthotics and prosthetics user´s survey)",
         "proposito": "Cuestionario de auto informe utilizado en programas protésicos y ortopédicos con el fin de evaluar la calidad y mantener la conciencia de la mejora de las actividades, como también evalúa los cambios del estado funcional, calidad de vida y los dispositivos y servicios.",
         "instrumento": "Consta de cinco módulos: 1. OPUS: Encuesta clínica. 2. OPUS: Índice de calidad de vida. 3. OPUS: Estado funcional de extremidad inferior. 4. OPUS: Estado funcional de la extremidad superior. 5.Opus: Satisfacción la ortesis o prótesis y sus servicios.",
+        "puntuacion": "La UEFS tiene una escala Likert de 5 puntos en la que los puntos de puntuación son 0 =incapaz, 1= difícil, 2= fácil, 3= muy fácil. La quinta columna ¨ no aplicable no se puntúa¨ por algunos autores , o se puntúa como 0 y se añade en el cálculo. Un total de estos puntos de puntuación se consideran en el cálculo final. La puntuación total de OPUS es la suma de las puntuaciones de los 20 elementos (0-80). Una puntuación más alta indica un mejor resultado",
+        "modo": "10 – 15 minutos",
+        "poblacion":"Personas con amputación",
         "validacion": "No esta valida en Colombia Países validos: Estados Unidos, Reino Unido, Países Árabes ",
         "referencias": "Shirley Ryan AbilityLab, (2015). ´´Orthotics Prosthetics Users Survey´´. Tomado de: https://www.sralab.org/rehabilitation-measures/orthotics-prosthetics-users-survey",
         "imagen": "https://i.postimg.cc/1XBhKq2x/imagennn.png"
@@ -156,7 +206,10 @@
         "id": 18,
         "nombre": "Trinity amputation and prostresis experience scales- revised (Tapes-r)",
         "proposito": "Es para evaluar la comodidad y la experiencia actual que el paciente presenta por su amputación en especial en miembros inferiores",
-        "instrumento": "Cuestionario autoadministrado que comprende los dominios de ajuste psicosocial, restricción de actividad y satisfacción protésica, cada uno con 3 subescalas. Con una exploración adicional del dolor residual, dolor del miembro fantasma y otros problemas médicos. Incorporando así los aspectos físicos y psicosociales del ajuste.",
+        "instrumento": "Cuestionario autoadministrado que comprende los dominios de ajuste psicosocial, restricción de actividad y satisfacción protésica, cada uno con 3 subescalas. Con una exploración adicional del dolor residual, dolor del miembro fantasma y otros problemas médicos. Incorporando así los aspectos físicos y psicosociales del ajuste. ",
+        "puntuacion": "Datos personales: Se puntúa de 0 a 5 o de 0 a 1 dependiendo la pregunta y son 8 preguntas. Parte 1 (Uso de la prótesis): Se puntúa de 1 a 4 y son 15 preguntas. Las puntuaciones oscilan entre 5 y 25, y las puntuaciones más altas indican mayores niveles de ajuste. Parte 1 (Satisfacción): Se puntúa de 1 a 3 y son 7 preguntas. Las puntuaciones más altas en cada una de las subescalas de satisfacción indican una mayor satisfacción con la prótesis. Parte 1 (Limitaciones): Se puntúa de 0 a 2 y son 10 preguntas. Las puntuaciones oscilan entre 3 y 12, y las puntuaciones más altas indican una mayor restricción de la actividad. Parte 2: Preguntas abiertas",
+        "modo": "10 – 15 minutos",
+        "poblacion":"Pacientes con amputación de miembros inferiores ",
         "validacion": "Sigue en su origen normal que es ingles y por ello lo usan más en países extranjeros como España, Francia, Chile, México, Argentina enre otros.",
         "referencias": "Gallagher, P., Maclachlan, M., P, A. G., & Trinity, M. M. T. (2004). Las escalas de experiencia de amputación y prótesis de Trinity y calidad de vida en personas con amputación de miembros inferiores, 85 (mayo). https://doi.org/10.1016/j.apmr.2003.07.009",
         "imagen": "https://i.postimg.cc/X7nCLBXs/im.png"
@@ -166,6 +219,9 @@
         "nombre": "Amputee mobility predictor assessment tool",
         "proposito": "",
         "instrumento": "",
+        "puntuacion": "Los ítems 1 y 2 evalúan la capacidad de mantener el equilibrio sentado. Los ítems 3 a 7 están diseñados para examinar la capacidad del sujeto amputado para mantener el equilibrio mientras realiza la tarea relativamente simple de transferirse de una silla a otra y ponerse de pie sin que se le oponga. Los elementos del 8 al 13 son actividades más desafiantes relacionadas con el equilibrio de pie Los ítems AMP 14 a 20 evalúan la calidad de la marcha y la capacidad para sortear obstáculos específicos. La mayoría de los Ítem de AMP ofrecen 3 opciones de puntuación 0: Indica incapacidad para realizar la tarea. 1: Implica un nivel mínimo de logro o que se requirió alguna ayuda para completar la tarea 2: Denota total independencia o dominio de la tarea. Nivel 0: No tiene la capacidad o el potencial para deambular o trasladarse de forma segura con o sin ayuda, y una prótesis no mejora la calidad de vida o la movilidad. Nivel 1:  Tiene la capacidad o el potencial para usar una prótesis para transferencias o deambulación en superficies niveladas a una cadencia fija. Típico del ambulatorio domestico limitado e ilimitado. Nivel 2:  Tiene la capacidad o el potencial para deambular con la capacidad de atravesar barreras ambientales de bajo nivel, como bordillos, escaleras o superficies irregulares. Típico del comunitario limitado. Nivel 3: Tiene la capacidad o el potencial para deambular con cadencia variable. Típico del deambulador comunitario que tiene la capacidad de atravesar la mayoría de las barreras ambientales y puede tener una actividad vocacional, terapéutica o de ejercicio que exige el uso de prótesis más allá de la simple locomoción. Nivel 4: Tiene la capacidad o el potencial para la deambulación protésica que excede las habilidades básicas de deambulación, exhibiendo un alto impacto, estrés o niveles de energía. Típico de las demandas protésicas del niño, adulto activo o atleta.",
+        "modo": "10 a 15 minutos, cada item presenta un nivel de dificultad de transferencias, se requieren algunos elementos para su evaluación como silla, obstáculos. ",
+        "poblacion":"10 a 15 minutos, cada item presenta un nivel de dificultad de transferencias, se requieren algunos elementos para su evaluación como silla, obstáculos. ",
         "validacion": "Amputee mobility predictor- bilateral: a performance- based measure of mobility for people with bilateral lower- limb loss (va.gov) Países validos: Estados Unidos, España, Chile, Mexico",
         "referencias": "Shirley Ryan AbilityLab, (2017). ´´Amputee Mobility Predictor´´. Tomado de: https://www.sralab.org/rehabilitation-measures/amputee-mobility-predictor ",
         "imagen": "https://i.postimg.cc/VkqsVDTM/ima-2.png"
@@ -175,8 +231,11 @@
         "nombre": "Karnofsky performac status scale ",
         "proposito": "La escala evalúa la capacidad de un paciente para tolerar terapias en enfermedades graves, específicamente para la quimioterapia ",
         "instrumento": "Fue desarrollada por el médico estadounidense David A. Karnofsky y su colega Joseph H. Burchenal. Es una herramienta de evaluación utilizada para evaluar la capacidad funcional de los pacientes y comparar la efectividad de diferentes terapias y tratamientos ",
+        "puntuacion": "La escala se expresa como un porcentaje, que va desde el 100% (sin restricciones, totalmente activo) hasta el 0% (fallecido). A continuación, se presenta una descripción general de algunos de los puntos clave en la escalada de Karnofsky: 100%: Normal, sin síntomas, sin limitaciones en las actividades. 90%: Capaz de realizar actividades normales con mínimas señales o síntomas de enfermedad. 80%: Actividad normal con esfuerzo, algunos síntomas evidentes de enfermedad. 70%: Capaz de cuidarse a sí mismo, pero incapaz de realizar actividades laborales normales o actividades activas. 60%: Requiere ayuda ocasional, pero es capaz de cuidar de la mayoría de las necesidades personales. 50%: Requiere ayuda considerable y atención médica frecuente. 40%: Incapaz de realizar cuidados personales, necesita atención médica y de enfermería. 30%: Gravemente enfermo, hospitalización necesaria, aunque la muerte no es inminente. 20%: Muy enfermo, hospitalización necesaria; el proceso de recuperación es dudoso. 10%: Moribundo, procesos médicos activos necesarios. 0%: Fallecido.",
+        "modo": "Para su aplicación el profesional de la salud debe observar al paciente y evalúa su capacidad para realizar actividades funcionales diarias, su nivel de energía, síntomas y cualquier limitación, se realiza directamente la entrevista con el paciente si se encuentra en las condiciones para contestar, en dado caso que el paciente no pueda proporcionar la información completa sus cuidadores pueden contestar El tiempo de aplicación de la escala Karnofsky Performance Status varía según la capacidad funcional del paciente y la frecuencia de la evaluación",
+        "poblacion":"Pacientes mayores de 16 años diagnosticados con cáncer o todo tipo de pacientes en cuidado paliativo ",
         "validacion": "Se realiza búsqueda en bases de datos como El sevier, Scielo, Google académico, EBSCO host, entre otras. No fue posible encontrar un artículo con la validación en español sobre el uso de esta escala, sin embargo, en diferentes artículos es considerada una escala y sencilla a diferencia de otras. Articulo Evaluación de la calidad de vida en pacientes en hemodiálisis crónica mediante el cuestionario “Kidney Disease Quality of Life (KDQOL-36)” ",
-        "referencias": "cáncer. Einstein , 7 (3 Pt 1), 314-21. Caffaratti, G., Giovannini, S., Del Pont, FM, Mormandi, R., Alcorta, SC y Cervio, A. (2021). ABORDAGEM TELOVELAR PARA TRATAMENTO CIRÚRGICO DE TUMORES DO QUARTO VENTRÍCULO EM PACIENTES",
+        "referencias": "cáncer. Einstein , 7 (3 Pt 1), 314-21. Caffaratti, G., Giovannini, S., Del Pont, FM, Mormandi, R., Alcorta, SC y Cervio, A. (2021). ABORDAGEM TELOVELAR PARA TRATAMENTO CIRÚRGICO DE TUMORES DO QUARTO VENTRÍCULO EM PACIENTES ADULTOS. Revista Brasileira de Neurología e Psiquiatria , 25 (1). Diccionario de Cáncer del NCI. (s. f.). Instituto Nacional del Cáncer. https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/escala-de-rendimiento-de-karnofsky",
         "imagen": "https://i.postimg.cc/vThknxS4/a.png"
     },
     {
@@ -184,6 +243,9 @@
         "nombre": "Senior fitness test ",
         "proposito": "Herramienta creada con el fin de valorar la condición física de los adultos mayores ",
         "instrumento": "Es una batería diseñada por Rikli y Jones , la cual permite medir y evaluar diferentes componentes asociados a la independencia funcional en adultos mayores tales como la fuerza muscular, la resistencia aeróbica, la flexibilidad y la agilidad ",
+        "puntuacion": "La escala la componen 7 ítems los cuales para realizar la puntuación e interpretación se deben tomar los resultados de cada ítem por separado y realizar un comparativo entre los valores de referencia estipulados en la escala con los resultados obtenidos según el grupo de edad y genero desde 60 a 94 años de tal forma según estos factores se estipula en que intervalo se  encuentra el paciente, lo que implica que entre más alta sea la puntuación esto indica un mejor nivel de condición física funcional , pero por otro lado si hay una disminución permite verificar los avances para mejorar su condición física",
+        "modo": "Se aplica de manera individual, los participantes deben llenar un consentimiento informado sobre los objetivos y los riesgos, antes de cada prueba el examinador debe realizar una demostración para mejor compresión por parte del participante, el tiempo puede llegar varias según la capacidad de cada individuo, pero se estima realizarla entre 30 a 45 minutos ",
+        "poblacion":"Adulto mayor entre 60 y 94 años de edad ",
         "validacion": "Articulo Confiabilidad del Senior Fitness Test versión en español, para población adulta mayor en Tunja-Colombia / Reliability of Senior Fitness Test version in Spanish for older people in Tunja-Colombia",
         "referencias": "Cobo Mejía, E. A., Ochoa González, M. E., Ruiz Castillo, L. Y., Vargas Niño, D. M., Sáenz Pacheco, A. M., & Sandoval Cuellar, C. (2016). Confiabilidad del Senior Fitness Test versión en español, para población adulta mayor en Tunja-Colombia. Arch. med. deporte, 382–386. https://pesquisa.bvsalud.org/portal/resource/pt/ibc-160571",
         "imagen": "https://i.postimg.cc/PNGpmNpk/imf.png"
@@ -193,6 +255,9 @@
         "nombre": "AIMS- alberta infant motor scale ",
         "proposito": "Herramienta que se utiliza con el fin de evaluar el desarrollo motor en niños a término y pretérmino, permite la valoración del desarrollo motor grueso a través de scores y percentiles y su vez sean comparativos con datos de la normativa enfatiza sobre las destrezas y la calidad de los patrones de movimiento (Ustariz Manjarrez. A. 2018) ",
         "instrumento": "La escala se subescalas: prono (21 ítems) supino (9 ítems) sedente (12items) de pie (16 ítems) ",
+        "puntuacion": "La calificación total es el resultado de la sumatoria del número de ítems a partir del ítem menos maduro observado más el número de ítems observados después de este. El desarrollo motor se puntúa mediante la observación o no de determinados comportamientos motores según la edad (cada item cumplido vale un punto). Con ello se obtiene un puntaje y un valor porcentual para la edad cronológica, que se lleva a una tabla de percentiles. Los autores han establecido que aquellos niños que se encuentren por debajo del percentil 10 son susceptibles de tratamiento fisioterápico. (Ustariz Manjarrez. A. 2018).",
+        "modo": "20- 30 minutos La evaluación se realiza en presencia de los padres, se observa las posiciones del niño durante su juego espontáneo. Se puede grabar la sesión y después realizar la puntuación de la escala. (Ustariz Manjarrez. A. 2018).",
+        "poblacion":"Niños entre los0 y 18 meses ",
         "validacion": "Articulo de investigación de la revista chilena de neuropsquiatria  establecio la traducción en español y la validación en Colombia https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-92272023000300258&lng=es&nrm=iso&tlng=es ",
         "referencias": "Ustariz Manjarrez. A.(2018). Evaluación del desarrollo motor en prematuros menores de 1 año, mediante la escala motora infantil Alberta y el método Munich. Universidad Nacional. Recuperado el 24 de noviembre de 2023 79955207.2018.pdf (unal.edu.co)  ",
         "imagen": "https://i.postimg.cc/7LDxS0KV/i.png"
@@ -202,6 +267,9 @@
         "nombre": "Weefim – functional Independence measure for children ",
         "proposito": "autocuidado, la movilidad funcional y las habilidades cognitivas, medida de la capacidad funcional que se puede utilizar para niños con desarrollo típico, de 6 meses a 7 años, así como para niños mayores de 7 años con discapacidades y retrasos en el desarrollo funcional ",
         "instrumento": "Sistema de medición del desempeño de 18 ítems que documenta el autocuidado, la movilidad funcional y las habilidades cognitivas, medida de la capacidad funcional que se puede utilizar para niños con desarrollo típico, de 6 meses a 7 años, así como para niños mayores de 7 años con discapacidades y retrasos en el desarrollo funcional.  Con base en la observación directa o el informe del cuidador obtenido por un examinador capacitado.  (Bartholomaus, R., Moyano, C., Solis, F., & Lobos, M. J. 2008) ",
+        "puntuacion": "Nivel 1 muy leve: Prácticamente sin limitación de la actividad Nivel 2 Leve: Con ligera o moderada limitación de la actividad y un mínimo de ayuda Nivel 3 Moderada: Con limitación de la actividad, necesita ayuda y dispositivos de asistencia Nivel 4 Severa: Personas con discapacidad para desarrollar cualquier actividad física Puntuacion: Se les da una puntuación de 1 a 7 dependiendo el grado de independencia que alcancen 7 = independencia completa 6 = independencia modificada 5 = supervisión o inducción 4 = asistencia mínima 3 = asistencia moderada, 2 = asistencia máxima 1 = asistencia total",
+        "modo": "15-30 minutos dependiendo del nivel de habilidad del entrevistador, edad del niño, la complejidad del problema o severidad de la discapacidad ",
+        "poblacion":"Niños y adolescentes de 6 meses y 18 años quienes presenten retraso en el desarrollo o en la función ",
         "validacion": "Se valida por la eficiencia sobre tratamientos y terapias restrictivas sobre funcionalidad de la extremidad superior en niños de 3 a 8 años con parálisis cerebral hemiparesia ",
         "referencias": "García, J., Rolle, G., Huerta, V., Lavanchy, J., San Martín, P., & Fuentes, M. (2014). Eficacia de la terapia restrictiva sobre funcionalidad de la extremidad superior en niños de 3 a 8 años con parálisis cerebral hemiparética: un ensayo clínico experimental. Rehabil. integral (Impr.), 8-16. ",
         "imagen": "https://i.postimg.cc/c4XjFY1h/t04-02.gif"
@@ -211,6 +279,9 @@
         "nombre": "Escala Abreviada del Desarrollo – EAD - 3 ",
         "proposito": "Identificar de manera temprana, el riesgo de retrasos en el desarrollo de niños con 7 años ya cumplidos. En general, el retraso en el desarrollo se emplea para evaluar a un niño o niña que no alcanza los hitos de desarrollo esperados para su edad, incluso después de considerar la amplia variación de la normalidad. ",
         "instrumento": "Observación directa: Se examina la conducta del niño. La mayoría de los ítems de la escala corresponden a esta modalidad. Preguntas dirigidas: Se investiga el ítem interrogando al cuidador(a). ",
+        "puntuacion": "",
+        "modo": "",
+        "poblacion":"",
         "validacion": "Unicef en Colombia, estableció que la Escala Abreviada del Desarrollo (EAD) fue seleccionada como prueba de referencia en Colombia por medio de una resolución. Aunque no es el “Gold estándar”, se haya que tiene una correlación moderada (r = 0,51). En este estudio se hizo aplicaron una prueba piloto con tres niños y se arrojaron los siguientes resultados: 1. “Se estableció la reproducibilidad entre evaluadores, obteniendo coeficientes Kappa > 0,70 para las 4 áreas evaluadas.” 2.“Correlación del p=0.96, lo que indica un puntaje casi perfecto” 3. “Tiene una validez de constructo, lo que quiere decir: Mide lo que pretende medir. “ ",
         "referencias": "Autores, M. (s/f). Escala abreviada de desarrollo-3. Recuperado el 11 de noviembre de 2024, de https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/Escala-abreviada-de-desarrollo-3.pdf Camargo, L., María Solange, P. S., & Yuri Liseth, S. M. (21-Ene-2020). Confiabilidad y validez de un cuestionario de desarrollo infantil en encuestas nacionales. Rev. chil. pediatr. https://doi.org/10.32641/rchped.v91i1.903 ",
         "imagen": "https://i.postimg.cc/jSLmBBHb/thumb-1200-1553.png"
@@ -220,6 +291,9 @@
         "nombre": "Patrones fundamentales de movimiento de Mc Clenaghan y Gallahue",
         "proposito": "Evaluar cualitativamente los patrones motores tanto locomotores como manipulativos de los niños y referenciarlos de acuerdo a sus características en uno de tres estadios, inicial, elemental y maduro, a través de la observación de cinco patrones.  ",
         "instrumento": "Los cinco patrones por evaluar permitirán la clasificación en alguno de los tres estadios teniendo en cuenta la ejecución del movimiento generalmente desde los brazos, el tronco y las piernas. Se cuenta con una hoja de evaluación, la cual contendrá instrucciones verbales sugeridas al evaluador al indicar la realización del movimiento, así como para cada uno de los segmentos una descripción con respecto a los posibles hallazgos en los estadios. ",
+        "puntuacion": "Puntuación directa: Número de ítems aprobados y no requiere de un análisis sustentado. Puntuación típica: Indicación del desarrollo del niño en las áreas evaluadas en comparación del desempeño del niño, con otros niños de su edad. El criterio de evaluación de cada ítem se basa en: Cumple (1) ó no cumple (0. Se realiza una sumatoria de todas las puntuaciones y el resultado se ubica según la normativa y la edad. Dentro del semáforo. Desarrollo esperado para la edad (verde) Riesgo de problemas de desarrollo (amarillo) Sospecha de problemas de desarrollo (rojo)",
+        "modo": "La evaluación debe ser un entorno seguro, silencioso, aislado y tranquilo, libre de estímulos distractores e interrupciones que puedan entretener al niño o niña. Un tiempo estimado entre 20 y 40 minutos en la administración de la evaluación.",
+        "poblacion":"Niños y niñas hispanohablantes entre los 0 a 7 años. ",
         "validacion": "Validez de constructo: Mide en un 89% los significados de los patrones motrices. Validez de contenido: Domina el contenido de manera clara y eficiente lo que presume un contenido que mide lo que se pretende medir. Confiabilidad: Se cálculo con el coeficiente de Pearson con un porcentaje del 80%, lo que quiere decir una correlación fuerte. ",
         "referencias": "Jimenes, J., Salazar, M. Y Morera, M. (2013). Diseño y validación de un instrumento para la evaluación de patrones básicos de movimiento. Recuperado de: https://dialnet.unirioja.es/servlet/articulo?codigo=4775784 McClenaghan, B Y Gallahue, D. (1985). Movimientos Fundamentales: su desarrollo y rehabilitación. Ed. Médica Panamericana, Buenos Aires. Recuperado de: https://sncpharma.com/wp-content/uploads/2019/07/Movimiento-fundamentales.-Su-desarrollo-y-rehabilitacion.pdf Villouta, P., Rodríguez, V., Sandoval, M. Y Carreño, M. (2016). Análisis de patrones motores fundamentales en niños de 4 y 5 años de colegios particulares subvencionados de concepción. Revista ciencias de la actividad física, vol. 17, núm. 2, pp. 19-28, 2016.",
         "imagen": "https://i.postimg.cc/QxLqjwZD/patrones-basicos-del-movimiento-en-educacion-fisica-01.jpg"
@@ -229,6 +303,9 @@
         "nombre": "Batería Psicomotora (BPM) de Vítor Da Fonseca ",
         "proposito": "Análisis cualitativo de la disfunción psicomotora que está inmersa en el aprendizaje del niño, intentando comprender como trabaja el cerebro y las bases de los procesos mentales de la psicomotricidad. ",
         "instrumento": "Conjunto de tareas que permite detectar déficits funcionales en términos psicomotores, teniendo en cuenta la integración sensorial y el potencial de aprendizaje del niño. ",
+        "puntuacion": "Varía de acuerdo con el desarrollo motor esperado en el ciclo vital al cual pertenece el usuario evaluado ",
+        "modo": "Observacional cualitativo Tiempo estimado 30 minutos",
+        "poblacion":"Niños entre los 2 y los 7 años. ",
         "validacion": "Según este estudio realizado en Pereira, Para la confiabilidad se encuentra la correlación del Alfa de Cronbach con un valor de fiabilidad de 0.6 o 0.5, lo que quiere decir “Confiable”. Frente a la validez cuenta con una buena consistencia interna lo que traduce en que “mide lo que pretende medir en todos sus ítems”",
         "referencias": "Vitor, D. F. (1998). Manual de observación psicomotriz. Inde publicaciones. https://books.google.es/books?id=kNrRlgjAoYEC&lpg=PA7&ots=yHuCWVpR5Q&dq=Bater%C3%ADa%20Psicomotora%20(BPM)%20de%20V%C3%ADtor%20Da%20Fonseca%20&lr&hl=es&pg=PA107#v=onepage&q&f=false Nelson Mauricio, S. A. (2015). Analisis de confiabilidad de la batería psicomotora (BPM) de victor fonseca y su correlaciónn con el rendimiento académico en niños de 6 años que inician proceso escolar en la institución educativa San Nicolás [Universidad Católica de Pereira ]. https://repositorio.ucp.edu.co/server/api/core/bitstreams/c77b693f-226f-4b54-b5e6-4e32428b969a/content",
         "imagen": "https://i.postimg.cc/cLtZfv5w/cuales-son-los-componentes-de-la-bateria-de-fonseca-1.jpg"
@@ -238,6 +315,9 @@
         "nombre": "GMFCS – Gross Motor Function Classification System ",
         "proposito": "Herramienta que clasifica a los niños con parálisis cerebral en cinco niveles según sus capacidades motoras gruesas.  ",
         "instrumento": "Esta escala se basa en el movimiento que los niños inician voluntariamente, como sentarse, caminar o usar dispositivos de movilidad. ",
+        "puntuacion": "La puntuación máxima de la prueba es de 28 puntos, la media de 14puntos y la mínima es de 7 puntos. Perfil eupráxico (Normal): Niños sin dificultad de aprendizaje, con probabilidad de factores psicomotores variados y diferenciados. Perfil Dispráxico: El niño presenta dificultades de aprendizaje ligeras, con presencia de una o varias señales desviadas que afectan neuro-evolutivamente conforme a la edad. Perfil Apráxico (Deficitario): Niños con dificultad de aprendizaje significativo de tipo moderado a severo, con un aprendizaje categorizado como lento.",
+        "modo": "Se debe hacer en un espacio y de manera lúdica, con instrucciones claras y fáciles de entender para los niños y siempre con el acompañamiento del tutor o el maestro. El tiempo estimado puede ser entre 30-40 minutos para un observador experimentado y entrenado.",
+        "poblacion":"Niños en edades preprimarias (4 a 6 años) y en edad primaria (6 a 12 años). ",
         "validacion": "La validez de criterio arrojo un coeficiente de correlación de Pearson (0,718), lo que quiere decir correlación positiva fuerte. En la validez de constructo se hayo que cumple con los criterios de que “Mide lo que pretende medir”. Consistencia interna: El alfa de Cronbach con un resultado para la escala total de 0,87.",
         "referencias":  "Barria Aburto, P., Barria Ruiz, V., Castillo Aguilar, M., Aguilar Cárdenas, R., Andrade Gallardo, A., & Núñez-Espinosa, C. (2022). Caracterización funcional de pacientes con parálisis cerebral que viven en la región de Magallanes y la Antártica Chilena. Andes pediátrica: revista chilena de pediatría, 93(3), 361. https://doi.org/10.32641/andespediatr.v93i3.3636 Palisano, R., Rosenbaum, P., Bartlett, D., & Livingston, M. (s/f). GMFCS – E & R Clasificación de la Función Motora Gruesa Extendida y Revisada. Canchild.ca. Recuperado el 12 de noviembre de 2024, de https://canchild.ca/system/tenon/assets/attachments/000/000/079/original/GMFCS-ER_Translation-Spanish.pdf Carreño-Mora, F., Ortiz-Corredor, F., Espinosa-García, E., & PérezHernández, C. E. (Agosto 2015). Validación de un instrumento para evaluar la carga del cuidador en parálisis cerebra. Revista de Salud Pública, 578–588.",
         "imagen":"https://i.postimg.cc/4nCPMFsJ/Five-Gross-Motor-Function-Classification-System-GMFCS-Expanded-and-Revised-levels-as.png' border='0' alt='Five-Gross-Motor-Function-Classification-System-GMFCS-Expanded-and-Revised-levels-as"
@@ -247,6 +327,9 @@
         "nombre": "GMFM – Gross Motor Function Measure ",
         "proposito": "Herramienta que clasifica a los niños con parálisis cerebral según sus capacidades motoras gruesas y con niños afines a su edad cronológica. ",
         "instrumento": "Prueba que evalúa en un ambiente controlado los patrones locomotores y no locomotores, con el fin de observar sus capacidades motoras gruesas. ",
+        "puntuacion": "Nivel I: Sin limitaciones (andar, correr, subir escaleras, etc.). Escasa coordinación. Nivel II: limitación en la marcha en terreno irregular o larga distancia. Precisa apoyo en escaleras. Dificultad para correr y saltar. Nivel III: Camina con bastón o muletas. Silla de ruedas para larga distancia. Nivel IV: andador en casa. Silla de ruedas manejada por otro en el resto de las circunstancias. Nivel V: Dependencia completa para moverse.",
+        "modo": "No aplica, es netamente una escala de clasificación que se deduce desde la observación",
+        "poblacion":"Niños con parálisis cerebral de 6-12 años y de 12-18 años.",
         "validacion": "Muestra una alta sensibilidad frente a los cambios de la función motora de los niños con Parálisis Cerebral. Validez de contenido: Evita conclusiones no validas a partir de la prueba, mide la capacidad de la prueba para determinar las personas realmente enfermas cuando este sea dispositivo. Validez de constructo: Definición conceptual del constructo que debe ser medido y se relaciona con los criterios de la evidencia. Confiabilidad: Una medición precisa que se presenta exactamente con lo que se mide. Contiene consistencia interna, Test-retest y consistencia inter e intra observador.",
         "referencias": "Palisano, R., Rosenbaum, P., Bartlett, D., & Livingston, M. (s/f). GMFCS – E & R Clasificación de la Función Motora Gruesa Extendida y Revisada. Canchild.ca. Recuperado el 12 de noviembre de 2024, de https://canchild.ca/system/tenon/assets/attachments/000/000/079/original/GMFCS-ER_Translation-Spanish.pdf Institute for Applied Health Sciences, McMaster University. (s/f). GROSS MOTOR FUNCTION MEASURE (GMFM-SP) HOJA DE PUNTUACIÓN (GMFM-88 y GMFM-66). https://doi.org/.http://motorgrowth.canchild.ca/en/GMFCS/resources/GMFCS-ER.pdf",
         "imagen": "https://i.postimg.cc/MTH8KXRn/1.png"
@@ -256,6 +339,9 @@
         "nombre": "Quick DASH(Discapacidades de brazo, hombro y mano) ",
         "proposito": "Trata de unificar en un solo instrumento la evaluación de la gran mayoría o todas las patologías de la extremidad superior del adulto. ",
         "instrumento": "Cuestionario autoadministrado. ",
+        "puntuacion": "Determina la percepción del paciente por medio de 30 preguntas que tienen valores se dan a partir de extremidad superior que pueda alcanzar valores de 0 (ausencia de discapacidad) a 100 (en casos severos de discapacidad). >1 Ninguna Dificultad >2 Dificultad Suave >3 Dificultad Moderada >4 Dificultad severa >5 Incapacidad",
+        "modo": "Bolígrafo y el cuestionario impreso, no hay un tiempo estimado, ya que, es autoadministrado. ",
+        "poblacion":"Pacientes con intervenciones quirúrgicas, rehabilitación de traumas, trastornos musculoesqueleticos,atletas con lesiones y con lesiones neurológicas en miembros superiores. ",
         "validacion": "Estudio 1: Confiabilidad Test re-test: Con un coeficiente de correlación de alfa de Conbrach entre los dos valores fue de 0,97. Y con un intervalo de confianza del 95%. Validez de constructo: Se encontró que la escala del Quick DASH permite diferenciar entre las patologías distales de la mano, pero no así para las proximales, sin embargo, no es una escala pensada para este fin. Estudio 2: Validez de constructo por severidad: Ayuda a discriminar las condiciones por la gravedad de la enfermedad y los niveles de compromiso funcional. Para la consistencia interna se hayo que el resultado del alfa de Cronbach fue estimado con resultado >0,96 para los 30 ítems de la escala. Estimación de Test re-test: El resultado del coeficiente de concordancia de Lin fue 0,86; IC95%: de 0,76 a 0,95, lo que quiere decir “pobre”, no es confiable el test re-test.",
         "referencias": "González, G. L. A. G., Sierra, S. F. A., & Ricardo, R. M. C. R. (2018). Validación de la versión en español de la escala de función del miembro superior abreviada: Quick Dash. Revista Colombiana de Ortopedia y TraumatologíA/Revista Colombiana de Ortopedia y Traumatología, 32(4), 215-219. https://doi.org/10.1016/j.rccot.2017.06.012 García González, L. A., Aguilar Sierra, F. J., Moreno Serrano, C., & Enciso, M. (2020). Traduccion, adaptacion cultural y validacion de una escala de funcion del miembro superior: DASH. Revista colombiana de ortopedia y traumatologia, 34(3), 231–240. https://doi.org/10.1016/j.rccot.2017.06.011",
         "imagen": "https://i.postimg.cc/Ss9bz3T4/thumb-1200-1600.png"
@@ -265,6 +351,9 @@
         "nombre": "Roland-Morris Disability Questionnaire",
         "proposito": "Determinar de manera fiable el grado de incapacidad física derivado de la lumbalgia inespecífica. ",
         "instrumento": "El cuestionario se tiene que usar en pacientes con lumbalgia que sepan leer, aunque lo hagan con dificultad o no tengan estudios, y está diseñado para ser usado especialmente en Atención Primaria. ",
+        "puntuacion": "Da un puntaje total que fluctúa entre 0 y 24, el cual se obtiene sumando las respuestas ❝Sí ❞ (Sí = 1 punto; No = 0) del total de ítems administrados. Los valores oscilan entre 0 (ausencia de incapacidad por lumbalgia) y 24 (máxima incapacidad posible). A mayor puntaje mayor discapacidad asociada al dolor lumbar.",
+        "modo": "Bolígrafo y el cuestionario impreso, no hay un tiempo estimado, ya que, es autoadministrado. ",
+        "poblacion":"Pacientes con lumbalgia o dolor en la zona lumbar. ",
         "validacion": "Consistencia interna: El Alfa de Cronbach del RDQ fue de 0,81 y para la versión de 6 ítems fue de 0,78, por lo tanto, una consistencia interna adecuada. Validez convergente: Muestra una relación positiva que es significativa entre discapacidad y dolor. En cuanto a la validez de constructo, el análisis factorial realizado mostró una estructura unidimensional del RDQ. Esto es consistente con los hallazgos de las validaciones gujarati y japonesa.",
         "referencias": "Kovacs, F. M. (2005). El uso del cuestionario de Roland-Morris en los pacientes con lumbalgia asistidos en Atención Primaria. Semergen, 31(7), 333–335. https://doi.org/10.1016/s1138-3593(05)72944-0 Eliana, G., Susan, G. y Policarpo, R. (2014). Adaptación cultural y validación de la versión chilena del Cuestionario de Discapacidad Roland-Morris. Rev.méd. Chile , 142 (6). https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0034-98872014000600005 Vista de Consistencia interna y validez convergente, discriminante y de criterio del Start Back Screening Tool en una muestra colombiana. (s/f). Edu.co. Recuperado el 12 de noviembre de 2024, de https://revistas.unal.edu.co/index.php/revfacmed/article/view/95638/88659",
         "imagen": "https://i.postimg.cc/C1sJt4dD/2.png"
@@ -274,6 +363,9 @@
         "nombre": "Work Ability Index – WAI (Índice de Capacidad de Trabajo) ",
         "proposito": "Indicador basado en la percepción del trabajador, que a partir de un cuestionario valora la capacidad del trabajador para el desempeño de su trabajo y estima su proyección en los sucesivos 2 años. ",
         "instrumento": "Está compuesto por siete dimensiones y diez preguntas de las cuales se obtienen las puntuaciones. ",
+        "puntuacion": "El resultado oscila entre 7 y 49 puntos, se suman los puntajes obtenidos en cada pregunta y al final se clasifica el sujeto en cuanto su capacidad. Pobre (7-27) Moderado (28-36) Buena (37-43) Óptima (44-49)",
+        "modo": "Cuestionario administrado por un profesional de la salud, que se llena con la información desde la percepción del trabajador. ",
+        "poblacion":"Trabajadores adultos.",
         "validacion": "Estudio transversal en argentina que mide la validez y la confiabilidad de la escala. Validez de constructo: Busca evaluar el grado en qué medida empírica refleja adecuadamente el significado real del concepto considerado. Logran definir el constructo “Capacidad para el trabajo”. Confiabilidad: Con un alfa de Cronbach de 0.80 lo que quiere decir un rango bueno.",
         "referencias": "Peralta, N., Godoi Vasconcelos, A. G., Härter Griep, R., & Miller, L. (Mayo-agosto 2012). Validez y confiabilidad del Índice de Capacidad para el Trabajo en trabajadores del primer nivel de atención de salud en Argentina. Salud Colectiva, 8(2), 163–173. https://www.redalyc.org/pdf/731/73123079004.pdf Rodríguez, G., López, G. M., & Marrero, M. L. (s/f). CONFIABILIDAD TEST-RETEST DEL TEST-RETEST RELIABILITY OF THE CUESTIONARIO “ÍNDICE DE WORK ABILITY INDEX IN HEALTH CAPACIDAD DE TRABAJO” EN WORKERS OF HOSPITAL TRABAJADORES DE LA SALUD DE. Medigraphic.com. Recuperado el 12 de noviembre de 2024, de https://www.medigraphic.com/pdfs/revcubsaltra/cst-2013/cst132h.pdf",
         "imagen": "https://i.postimg.cc/Y04Ggrc9/1.webp"
@@ -283,6 +375,9 @@
         "nombre": "Maslach Burnout Inventory - MBI",
         "proposito": "Mide el síndrome de agotamiento en adultos que trabajan en diferentes entornos laborales, también funciona para detectar el síndrome de burnout.",
         "instrumento": "Instrumento conformado por 22 ítems que se valoran con una escala de frecuencia de siete grados. ",
+        "puntuacion": "Se divide en tres subescalas que miden tres factores ortogonales cada una, denominados: Agotamiento emocional (Emocional exhaustivo), (9 ítems) Despersonalización (Depersonalization), (5 ítems) Realización personal en el trabajo (Personal accomplishment), (8 ítems). Obteniéndose en ellas una puntuación estimada como baja, media o alta.",
+        "modo": "Bolígrafo y el cuestionario impreso, no hay un tiempo estimado, ya que, es autoadministrado. ",
+        "poblacion":"Trabajadores Adultos.",
         "validacion": "Confiabilidad: Alfa de conbrach que nos indica una buena consistencia interna con un valor de 0,8 con un valor aceptable. Validez de contenido: El criterio que mide el instrumento de evaluación refleja de manera adecuada el dominio de contenido que se pretende medir, frente a los 25 ítems.",
         "referencias": "Olivares Faúndez, V. E., & Gil-Monte, P. R. (s/f). ANALYSIS OF THE MAIN STRENGTHS AND wEAKNESS OF THE MASLACH BURNOUT INVENTORY (MBI). Roderic.uv.es. Recuperado el 12 de noviembre de 2024, de https://roderic.uv.es/rest/api/core/bitstreams/472d795b-926b-4599-9d18-bedf6db203c6/content",
         "imagen":"https://i.postimg.cc/xdTK8Sdk/images.png"
@@ -292,8 +387,11 @@
         "nombre": "Multidimensional Assessment of Interoceptive Awareness - MAIA",
         "proposito": "Es un instrumento diseñado para evaluar la conciencia interoceptiva.",
         "instrumento": "Es un instrumento diseñado para evaluar la conciencia interoceptiva. Cuestionario con 32 ítems en una escala de Likert, con 6 niveles, en los que 0 es nunca y 5 siempre.",
+        "puntuacion": "Las puntuaciones están entre 0 y 5, donde una puntuación más alta equivale a una mayor conciencia de las sensaciones corporales. Para un total de 160 puntos. ",
+        "modo": "6 minutos.",
+        "poblacion":"Adultos (a partir de los18 años)   ",
         "validacion":  "El número de ítems y la fiabilidad establecida por el alfa de Cronbach (α), varían entre las subescalas: darse cuenta (cuatro ítems, α=0,69), no distraerse (tres ítems, α=0,66), no preocuparse (tres ítems, α=0 67), Regulación de la atención (siete ítems, α=0,87), Conciencia emocional (cinco ítems, α=0,82), Autorregulación (cuatro ítems, α=0,83), Escucha corporal (tres ítems, α=0,82) y Confianza (tres ítems, α=0,79). La versión española de la escala mantuvo la extensión, el formato y la estructura dimensional de la versión original.",
-        "referencias": "Object], [object. (s. f.). Psychometric properties of the multidimensional assessment of interoceptive awareness (MAIA) in a Chilean population. Core.ac.uk, de https://core.ac.uk/download/pdf/82864850.pdf Montoya-Hurtado, O.; Gómez-Jaramillo, N.; Bermúdez-Jaimes, G.; Correa-Ortiz, L.; Cañón, S.; Juárez-Vela, R.; Santolalla-Arnedo, I.; Criado-Pérez, L.; Pérez, J.; Sancho-Sánchez, MC; Criado-Gutiérrez, J. Propiedades Psicométricas del Cuestionario de Evaluación Multidimensional de la Conciencia Interoceptiva (MAIA) en Estudiantes Universitarios Colombianos. J. Clin. Medicina. 2023, 12 , 2937. https://doi.org/10.3390/jcm12082937",
+        "referencias": "Object], [object. (s. f.). Psychometric properties of the multidimensional assessment of interoceptive awareness (MAIA) in a Chilean population. Core.ac.uk, de https://core.ac.uk/download/pdf/82864850.pdf Montoya-Hurtado, O.; Gómez-Jaramillo, N.; Bermúdez-Jaimes, G.; Correa-Ortiz, L.; Cañón, S.; Juárez-Vela, R.; Santolalla-Arnedo, I.; Criado-Pérez, L.; Pérez, J.; Sancho-Sánchez, MC; Criado-Gutiérrez, J. Propiedades Psicométricas del Cuestionario de Evaluación Multidimensional de la Conciencia Interoceptiva (MAIA) en Estudiantes Universitarios Colombianos. J. Clin. Medicina. 2023, 12 , 2937. https://doi.org/10.3390/jcm12082937 Multidimensional Assessment of Interoceptive Awareness (MAIA). (s/f). Recuperado el 23 de noviembre de 2024, de https://osher.ucsf.edu/sites/osher.ucsf.edu/files/inline-files/MAIA_Spanish.pdf",
         "imagen": "https://i.postimg.cc/VN6C1B7n/MAIA-2-assess-awareness-of-bodily-sensations-interoception-form.png"
     }, 
     {
@@ -301,15 +399,21 @@
         "nombre": "Scale of Body Connection- SBC ",
         "proposito": "Abordar la necesidad de una medida de auto informe para examinar la conciencia y la disociación corporales en las investigaciones mente-cuerpo. ",
         "instrumento": "20 ítems y evalúa dos dimensiones distintas: la conciencia y disociación corporal ",
+        "puntuacion": "Ítems de conciencia corporal (BA): 1,3,4,6,8,9,12,13,14,15,17,18 Elementos de disociación corporal (DB): 2,5,7,10,11,16,19,20 Para puntuar la subescala BA: Sume los elementos aprobados y divídalos por el número total de elementos. Para puntuar la subescala DB: Sume los elementos aprobados y divídalos por el número total de elementos.",
+        "modo": "Si usted contesto NO a todas las preguntas, está en condiciones de realizar actividad física. Si usted contesto SI a una o más de las preguntas anteriores, tiene que ir al médico a que la evalué La persona marca si SI  o NO de acuerdo con su condición  de salud dura de 5  a 10 minutos",
+        "poblacion":"15 años en adelante",
         "validacion": "El índice de confiabilidad (α de Cronbach: 0,87) nos muestra que este es un instrumento consistente y homogéneo en la valoración que hace en la población estudiada sobre la conciencia y disociación corporal hacia las personas con una enfermedad mental. Validez de apariencia: Medida que se basa en juicios subjetivos para determinar si un instrumento parece medir lo que pretende. Validez de constructo: El concepto cumple las consideraciones para medir lo que pretende medir.",
         "referencias": "Alba Maldonado, JC, Vargas Rodríguez, LJ, & Gordillo Navas, G. (2021). Validación al castellano de la Body Responsiveness Connection Scale (Escala de Respuesta Corporal (ERC) en médicos internos del hospital San Rafael de Tunja en Colombia. Revista de neuro-psiquiatria , 84 (3), 159–164. https://doi. Org/10.20453/rnp.v84i3.4032 ",
         "imagen": "https://i.postimg.cc/VLnTBXWq/Sin-t-tulo-60.png"
     }, 
     {
         "id": 35,
-        "nombre": "Índice de BARTHE", 
+        "nombre": "Índice de BARTHEL", 
         "proposito": "Evaluar la capacidad funcional y la independencia en actividades básicas de la vida diaria (ABVD), como alimentación, movilidad y cuidado personal. Es útil para medir el impacto de las discapacidades y los cambios funcionales tras una intervención o rehabilitación. ",
         "instrumento": "Cuestionario con 10 ítems, cada uno puntuado en una escala que varía entre 0, 5, y 10, dependiendo del nivel de independencia. El puntaje total (0-100) clasifica el nivel de dependencia (total, severa, moderada o leve). ",
+        "puntuacion": "0-20 puntos: Dependencia total. 21-60 puntos: Dependencia severa. 61-90 puntos: Dependencia moderada. 91-100 puntos: Independencia parcial a total.",
+        "modo": "Modo: Evaluación directa, observacional. Tiempo: Aproximadamente 10-15 minutos.",
+        "poblacion":"Personas con discapacidades motoras, adultos mayores, pacientes post-quirúrgicos o con patologías que afecten su capacidad para realizar ABVD. ",
         "validacion": "Estudios recientes han confirmado su fiabilidad y validez en diversas poblaciones, incluyendo pacientes geriátricos y aquellos con enfermedades neurológicas o COVID-19. Los análisis han demostrado una correlación fuerte con otras medidas funcionales y una buena consistencia interna. ",
         "referencias": "1. Healthcare (2023): Validación del Índice de Barthel como predictor de mortalidad hospitalaria en pacientes con COVID-19. Este estudio mostró sensibilidad y especificidad adecuadas en la predicción de resultados clínicos. ResearchGate ps://www.researchgate.net/publication/370612210_Validation_of_the_Barthel_Index_as_a_Predictor_of_In-Hospital_Mortality_among_COVID-19_Patients/fulltext/645a3bda2edb8e5f094acc32/Validation-of-the-Barthel-Index-as-a-Predictor-of-In-​ ResearchGate lity-among-COVID-19-Patients.pdf) 2. International Journal of Environmental Research and Public Health (2021): Análisis del Índice de Barthel bajo la Clasificación Internacional de Funcionalidad (CIF), confirmando su util​ ResearchGate ciones funcionales. (Fuente) 3. Journal of the Medical Association of Thailand (2020): Evaluación de la confiabilidad interobservador e intraobservador del Índice de Barthel en adultos mayores, demostrando alta consistencia y validez de constructo. (Fuente)",
         "imagen": "https://i.postimg.cc/YScFttxL/indice-barthel-abvd-irenea.webp"
@@ -320,6 +424,9 @@
         "nombre": "Índice de Katz",
         "proposito": "Evaluar la independencia en actividades básicas de la vida diaria (ABVD), como baño, vestido, movilidad, uso de baño, continencia y alimentación. Se utiliza para clasificar niveles de dependencia funcional",
         "instrumento": "Escala con seis ítems que se puntúan como ❝independiente❞ o ❝dependiente❞, clasificando a los pacientes en niveles de A (independiente) a G (dependencia total).",
+        "puntuacion": "A (independiente): Realiza la actividad sin ayuda. G (dependencia total): Necesita ayuda para realizar la actividad.",
+        "modo": "Modo: Entrevista estructurada o evaluación directa. Tiempo: 5-10 minutos..",
+        "poblacion":"Adultos mayores, personas con enfermedades crónicas, pacientes con discapacidades cognitivas o motoras. ",
         "validacion": "Estudios recientes respaldan su utilidad en adultos mayores, pacientes con enfermedades crónicas y situaciones de hospitalización, mostrando alta sensibilidad y validez. ",
         "referencias": "1. Pereira et al., 2020: Estudio que confirma la consistencia y sensibilidad del índice en adultos mayores hospitalizados (Journal of Geriatric Medicine). 2. Bastos-Barbosa et al., 2021: Aplicación en pacientes con enfermedades crónicas en atención primaria, validando su utilidad clínica (Revista Brasileira de Geriatria e Gerontologia). 3. Li et al., 2022: Estudio en población asiática que ratifica su capacidad para predecir resultados funcionales (BMC Geriatrics).",
         "imagen": "https://i.postimg.cc/cJQnHPD9/katz.avif"
@@ -329,6 +436,9 @@
         "nombre": "Escala de Lawton y Brody",
         "proposito": "Evaluar las Actividades Instrumentales de la Vida Diaria (AIVD) para identificar la capacidad de independencia en adultos mayores, particularmente en actividades complejas como manejo de finanzas, transporte, y uso de medicamentos. Es útil para detectar deterioro funcional temprano en trastornos cognitivos o geriátricos. ",
         "instrumento": "Consiste en un cuestionario que evalúa 8 actividades instrumentales. Cada ítem se califica con una escala de dependencia/independencia. Es aplicado mediante entrevistas presenciales o telefónicas, siendo adaptable según contexto cultural. ",
+        "puntuacion": "0: Totalmente dependiente. 1: Parcialmente dependiente. 2: Independiente.",
+        "modo": "Modo: Evaluación directa o mediante entrevista. Tiempo: 10-15 minutos.",
+        "poblacion":"Personas mayores, pacientes con enfermedades crónicas, especialmente en poblaciones con demencia o problemas cognitivos. ",
         "validacion": "1. El estudio demostró alta confiabilidad test-retest (ICC = 0.91) y consistencia interna (α = 0.84). Fue adaptado culturalmente para diferentes poblaciones y validado mediante correlación con índices como Katz y Barthel​ Alzheimer's Research Journal ​ E-AGMR . 2. Se compararon modos de administración (presencial/telefónico), mostrando equivalencia estadística y validez​ BMC Geriatrics . 3. Validación del formato adaptado culturalmente en Turquía resaltó su aplicabilidad en adultos mayores y su relación con indicadores de calidad de vida y morbilidad",
         "referencias": "1. Tsakitzidis et al. (2021). Validity of FIM in Greek patients with condiciones neurológicas (J Med Clin Res Rev)​ BMJ Open Quality . 2. Cieza et al. (2022). FIM's relevance in post-cardiac surgery recovery (BMJ Open Quality)​ SciVision . 3. Physio-pedia: Overview of FIM methodology and reliability",
         "imagen": "https://i.postimg.cc/nrLj3rng/bg1.webp"
@@ -338,17 +448,23 @@
         "nombre": "Escala: Spinal Cord Independence Measure (SCIM)",
         "proposito": "Evaluar la independencia funcional en pacientes con lesión medular. Incluye actividades relacionadas con autocuidado, respiración, movilidad en cama, silla de ruedas y marcha, ayudando a planificar intervenciones de rehabilitación y medir progreso. ",
         "instrumento": "La SCIM-III consta de 19 ítems agrupados en tres áreas: autocuidado (6 ítems), respiración y control de esfínteres (4 ítems), y movilidad (9 ítems). Cada ítem se puntúa de acuerdo al nivel de independencia funcional, obteniendo un puntaje total de 0 a 100. ",
+        "puntuacion": "1 (dependencia total) a 7 (independencia total) Puntuación total: 18-126 (cuanto mayor el puntaje, mayor la independencia). Evaluación de progreso: Cambios en la puntuación indican la evolución del paciente en su rehabilitación.",
+        "modo": "Modo: Evaluación clínica observacional o mediante entrevista. Tiempo: 30-45 minutos.",
+        "poblacion":"Pacientes en rehabilitación post-quirúrgica, personas con lesiones neurológicas (como accidente cerebrovascular o lesiones medulares), y aquellos con discapacidades físicas o cognitivas. ",
         "validacion": "Estudios recientes en múltiples centros internacionales han confirmado su alta confiabilidad (ICC ≥ 0.95) y sensibilidad al cambio, mostrando mayor precisión en pacientes con lesión medular que la Medida de Independencia Funcional (FIM). ",
         "referencias": "1. Aidinoff et al. (2021). Validación de la SCIM-III para lesiones medulares traumáticas en estudios multicéntricos. Spinal Cord, 59(7):705-715. [DOI:10.1038/s41393-021-00638-0]. 2. Harvey et al. (2021). Comparación entre SCIM y FIM en poblaciones con lesiones medulares. Spinal Cord, 59(7):705-715. [DOI:10.1038/s41393-021-00638-0]. 3. Furlan et al. (2022). Uso de SCIM-III en entornos clínicos. Journal of Neurotrauma, 28(8):1413-30.",
         "imagen": "https://i.postimg.cc/YCF4nJwr/spinal-cord-independence-measure-sample.jpg"
     },
     {
         "id": 39,
-        "nombre": "Medida de Valoración Funcional - FAM",
-        "proposito": "La FAM se desarrolló como una extensión de la Medida de Independencia Funcional (FIM) para incluir dominios adicionales que son críticos en la rehabilitación de pacientes con lesiones cerebrales traumáticas o condiciones similares. Evalúa habilidades físicas, cognitivas, psicosociales y de integración comunitaria, ayudando a medir el progreso y pronosticar resultados funcionales a largo plazo. ",
-        "instrumento": "El FAM consta de 12 ítems adicionales que complementan los 18 de la FIM, totalizando 30 ítems. Cada ítem se puntúa en una escala de 1 (dependencia total) a 7 (independencia completa). Áreas evaluadas incluyen memoria, resolución de problemas, integración comunitaria y adaptación psicosocial.",
-        "validacion":"Fiabilidad y validez: Estudios han demostrado que el FAM tiene alta consistencia interna y fiabilidad interobservador en poblaciones con lesiones cerebrales y otras discapacidades. También es sensible a los cambios en la funcionalidad de los pacientes durante la rehabilitación. Análisis psicométrico: Un análisis realizado en Reino Unido confirmó la utilidad del FAM+FIM como una herramienta robusta para medir resultados de rehabilitación en múltiples entornos clínicos​ Impacto clínico: Su integración en programas de rehabilitación permite un monitoreo más completo del progreso, particularmente en habilidades cognitivas y sociales​", 
-        "referencias": "Hawley C.A., Taylor R., Hellawell D.J., Pentland B. (2020). Use of the functional assessment measure (FIM+FAM) in head injury rehabilitation: a psychometric analysis. Journal of Neurology, Neurosurgery & Psychiatry. Turner-Stokes L. et al. (2020). Development and evaluation of the UK FIM+FAM. Disability and Rehabilitation. Zanca J. et al. (2021). Validation of Functional Independence and Assessment Measures in rehabilitation settings. Archives of Physical Medicine and Rehabilitation.",
+        "nombre": "Escala: Medida de Independencia Funcional (FIM) ",
+        "proposito": "Evaluar el nivel de independencia en actividades de la vida diaria (AVD) de pacientes con discapacidades físicas o cognitivas. Identifica la necesidad de asistencia en tareas motoras (movilidad, autocuidado) y cognitivas (comunicación, interacción social). Se usa ampliamente en rehabilitación. ",
+        "instrumento": "Compuesto por 18 ítems distribuidos en dos subescalas: motora (13 ítems) y cognitiva (5 ítems). Cada ítem se califica de 1 (dependencia total) a 7 (independencia completa), generando una puntuación total de 18 a 126. La evaluación puede ser por observación directa o entrevista clínica. ",
+        "puntuacion": "0-100 puntos: Cuanto mayor el puntaje, mayor la independencia en la realización de actividades diarias. Rangos de puntuación: Se interpretan según la severidad de la lesión medular y el progreso en la rehabilitación.",
+        "modo": "Modo: Evaluación clínica observacional. Tiempo: Aproximadamente 20-30 minutos.",
+        "poblacion":"Pacientes con lesiones medulares, tanto en fase aguda como crónica. ",
+        "validacion":"La FIM ha demostrado alta confiabilidad interevaluador y consistencia interna. Estudios recientes respaldan su utilidad para monitorizar avances funcionales en diversos contextos, incluidos pacientes con trastornos neurológicos y cardíacos. ​", 
+        "referencias": "1. Tsakitzidis et al. (2021). Validity of FIM in Greek patients with condiciones neurológicas (J Med Clin Res Rev)​ BMJ Open Quality . 2. Cieza et al. (2022). FIM's relevance in post-cardiac surgery recovery (BMJ Open Quality)​ SciVision . 3. Physio-pedia: Overview of FIM methodology and reliability",
         "imagen": "https://i.postimg.cc/htR4jvHn/fam.png"
     },
     {
@@ -356,6 +472,9 @@
         "nombre": "Berg Balance Scale (BBS)",
         "proposito": "Evaluar el equilibrio estático y dinámico en pacientes con diversas condiciones de salud, incluyendo accidentes cerebrovasculares, lesiones neurológicas y envejecimiento. ",
         "instrumento": "Incluye 14 ítems que valoran actividades comunes relacionadas con el equilibrio, como sentarse, pararse y girar. Las puntuaciones oscilan de 0 a 56, con mayor puntaje indicando mejor equilibrio.",
+        "puntuacion": "1 (dependencia total) a 7 (independencia total) Puntuación total: 18-126 (cuanto mayor el puntaje, mayor la independencia). Evaluación de progreso: Cambios en la puntuación indican la evolución del paciente en su rehabilitación.",
+        "modo": "Modo: Evaluación clínica observacional o mediante entrevista. Tiempo: 30-45 minutos.",
+        "poblacion":"Pacientes en rehabilitación post-quirúrgica, personas con lesiones neurológicas (como accidente cerebrovascular o lesiones medulares), y aquellos con discapacidades físicas o cognitivas.",
         "validacion": "- Alta fiabilidad inter e intraevaluador (ICC=0.95 a 0.98). - Buena sensibilidad para predecir caídas en pacientes con condiciones crónicas y agudas.",
         "referencias": "1. Blum, L., & Korner-Bitensky, N. (2020). ❝Reliability and responsiveness of the BBS in stroke patients.❞ Physical Therapy, 93(2): 158-170. [Fuente 1] 2. Hiengkaew, V. et al. (2020). ❝Psychometric properties of BBS for chronic stroke.❞ BMC Neurology, Fuente 2 3. Lin, J. et al. (2022). ❝Comparative reliability in patients with balance disorders.❞ Journal of Rehabilitation Research, 88(5): 559-566. [Fuente 3].",
         "imagen": "https://i.postimg.cc/43qsD3vj/ber-balance.webp"
@@ -365,6 +484,9 @@
         "nombre": "Escala de Tinetti (Performance Oriented Mobility Assessment - POMA) ",
         "proposito": "Evaluar el equilibrio y la marcha para predecir el riesgo de caídas en personas mayores. Útil en rehabilitación geriátrica y neurológica. ",
         "instrumento": "Consta de 16 ítems divididos en dos secciones: equilibrio (9 ítems) y marcha (7 ítems). Cada ítem se puntúa de 0 a 2, con un puntaje total máximo de 28 (mayor puntuación, menor riesgo). ",
+        "puntuacion": "Puntuación total: 0-28 24: Bajo riesgo de caídas 19-24: Riesgo moderado < 19: Alto riesgo de caídas",
+        "modo": "Modo: Evaluación clínica, observacional. Tiempo: Aproximadamente 10-15 minutos.",
+        "poblacion":"dultos mayores, especialmente aquellos con antecedentes de caídas o con enfermedades neurológicas como el Parkinson o accidente cerebrovascular (ACV). ",
         "validacion": "Estudios recientes demuestran alta fiabilidad (ICC > 0.85) y sensibilidad para predecir caídas en adultos mayores, incluyendo aquellos con enfermedades neurológicas o post-quirúrgicas. ",
         "referencias": "1. Hauer et al., 2020: Validación en hogares geriátricos (Journal of the American Geriatrics Society). 2. Muir-Hunter et al., 2021: Uso en predicción de caídas (BMC Geriatrics). 3. Cipriany-Dacko et al., 2020: Fiabilidad interevaluador en contextos clínicos (Physical",
         "imagen": "https://i.postimg.cc/hPccW6x4/tinetti.jpg"
@@ -374,6 +496,9 @@
         "nombre": "Timed Up and Go Test (TUG)", 
         "proposito": "El TUG mide el tiempo que tarda una persona en levantarse de una silla, caminar 3 metros, girar, regresar y sentarse nuevamente. Se considera un tiempo superior a 12-15 segundos como indicador de alto riesgo de caídas. ",
         "instrumento": "Estudios recientes confirman su alta fiabilidad (ICC > 0.9) y capacidad predictiva. En adultos mayores, se ha asociado con el riesgo de fracturas osteoporóticas y caídas recurrentes. También se han desarrollado versiones instrumentadas (iTUG) para mayor precisión. ",
+        "puntuacion": "Puntuación total: 0-28 24: Bajo riesgo de caídas 19-24: Riesgo moderado < 19: Alto riesgo de caídas",
+        "modo": "Modo: Evaluación clínica, observacional. Tiempo: Aproximadamente 10-15 minutos.",
+        "poblacion":"Adultos mayores, especialmente aquellos con antecedentes de caídas o con enfermedades neurológicas como el Parkinson o accidente cerebrovascular (ACV)",
         "validacion": "Estudios recientes confirman su alta fiabilidad (ICC > 0.9) y capacidad predictiva. En adultos mayores, se ha asociado con el riesgo de fracturas osteoporóticas y caídas recurrentes. También se han desarrollado versiones instrumentadas (iTUG) para mayor precisión. ",
         "referencias":"1. Soto-Varela et al., 2020: Relación del TUG con inestabilidad de marcha y caídas (Frontiers in Neurology)【131】. 2. Mendes et al., 2021: Evaluación del TUG mediante aplicaciones móviles para predecir caídas en Brasil (Braz J Dev)【132】. 3. Milosevic et al., 2020: Uso del TUG para evaluar transiciones posturales con dispositivos inteligentes (SciELO)【132】.",
         "imagen": "https://i.postimg.cc/zfb1Frm7/time-up.webp"
@@ -383,6 +508,9 @@
         "nombre":  "ASIA Impairment Scale (AIS) ",
         "proposito": "Evaluar y clasificar la gravedad de las lesiones medulares mediante una valoración estandarizada de funciones motoras y sensitivas, ayudando a predecir recuperación funcional y guiar estrategias de tratamiento y rehabilitación. ",
         "instrumento": "Clasificación en cinco categorías (A-E), basada en la función motora y sensitiva. Incluye pruebas de tacto ligero, pinchazo, presión anal y evaluación de músculos clave para determinar niveles de lesión y conservación funcional. ",
+        "puntuacion": "A (completa): No hay función sensitiva ni motora preservada en los segmentos sacros S4-5. B (sensorial incompleta): Función sensitiva preservada, pero no motora. C (motora incompleta): Función motora preservada, pero menos de la mitad de los músculos clave tienen fuerza de 3 o más. D (motora incompleta): Función motora preservada, con más de la mitad de los músculos clave con fuerza ≥ 3. E (normal): Función sensitiva y motora normal.",
+        "modo": "Modo: Evaluación clínica basada en observación y pruebas sensoriales/motoras. Tiempo: Aproximadamente 30-45 minutos.",
+        "poblacion":"Pacientes con lesiones medulares, tanto en la fase aguda como crónica. ",
         "validacion": "Estudios recientes han confirmado su utilidad clínica en múltiples poblaciones con lesión medular, mostrando alta fiabilidad y capacidad predictiva para la recuperación funcional. Es ampliamente usado a nivel internacional. Estudios recientes han confirmado su utilidad clínica en múltiples poblaciones con lesión medular, mostrando alta fiabilidad y capacidad predictiva para la recuperación funcional. Es ampliamente usado a nivel internacional. ",
         "referencias": "1. Marino et al. (2021): Fiabilidad del AIS en predicción de recuperación funcional (BMC Medicine)【142】. 2. Kirshblum et al. (2022): Guías de uso para clasificación en lesiones medulares (RehabMeasures Database)【143】. 3. Shepherd Center (2021): Revisión de las categorías del AIS en contexto clínico (ICF Case Studies)【144】.",
         "imagen": "https://i.postimg.cc/BvrfhV40/ASIA.jpg"
@@ -392,6 +520,9 @@
         "nombre": "SF-36 Health Survey",
         "proposito": "Evaluar la calidad de vida relacionada con la salud en ocho dimensiones, como función física, dolor corporal, salud general y bienestar emocional. Es ampliamente utilizado en investigación clínica y epidemiológica. ",
         "instrumento": "Cuestionario de 36 ítems que proporciona puntajes en dimensiones físicas y mentales, con puntuaciones más altas indicando mejor calidad de vida percibida. ",
+        "puntuacion": "Puntajes más altos: Mejor calidad de vida relacionada con la salud. Puntajes más bajos: Mayor impacto de las condiciones de salud sobre la vida diaria.",
+        "modo": "Modo: Autoaplicado o administrado por un entrevistador. Tiempo: Aproximadamente 5-10 minutos.",
+        "poblacion":"General, pacientes con enfermedades crónicas, y participantes en estudios clínicos que midan la calidad de vida. ",
         "validacion": "Estudios recientes confirman su fiabilidad y validez en diversas poblaciones, incluidos pacientes con enfermedades crónicas y condiciones postquirúrgicas. Es altamente sensible a cambios en la calidad de vida. ",
         "referencias": "1. Sullivan et al., 2021: Uso del SF-36 en validación en diferentes grupos clínicos (Health Quality Life Outcomes). 2. Ware et al., 2022: Revisión de datos de calidad y fiabilidad en investigaciones recientes (PubMed)【150】. 3. Kosinski et al., 2021: Evaluación comparativa en enfermedades reumatológicas (Med Care).",
         "imagen": "https://i.postimg.cc/25BPB7vX/sf-36.gif"
@@ -401,6 +532,9 @@
         "nombre": "SF-12 Health Survey",
         "proposito": "Evaluar la calidad de vida en términos de salud física y mental mediante un formato reducido de 12 ítems del SF-36. Es utilizado para simplificar la evaluación en estudios de gran escala o contextos clínicos con limitaciones de tiempo. ",
         "instrumento": "Se compone de 12 preguntas seleccionadas del SF-36 que evalúan dos dimensiones principales: el componente físico y el componente mental, permitiendo comparaciones rápidas y fiables. ",
+        "puntuacion": "Puntajes más altos: Mejor calidad de vida relacionada con la salud. Puntajes más bajos: Mayor impacto de las condiciones de salud sobre la vida diaria.",
+        "modo": "Modo: Autoaplicado o administrado por un entrevistador. Tiempo: Aproximadamente 5-10 minutos.",
+        "poblacion":"General, pacientes con enfermedades crónicas, y participantes en estudios clínicos que midan la calidad de vida. ",
         "validacion": "Estudios recientes han validado el SF-12 como una alternativa precisa al SF-36, con alta correlación en los puntajes físicos y mentales (r = 0.94-0.96), lo que lo hace práctico para grandes grupos y múltiples contextos culturales.", 
         "referencias": "1. Kosinski et al. (2020): Validación en diferentes grupos de pacientes (PubMed). 2. Ware et al. (2021): Comparaciones interculturales del SF-12 y SF-36 (J Clin Epidemiol). 3. Hunt et al. (2022): Adaptación transcultural en estudios internacionales (Health Policy).",
         "imagen": "https://i.postimg.cc/WzSKPWLt/descarga.png"
@@ -410,6 +544,9 @@
         "nombre": "WHO Disability Assessment Schedule 2.0 (WHODAS 2.0)", 
         "proposito": "Medir la discapacidad y el nivel de funcionamiento en relación con seis dominios: cognición, movilidad, autocuidado, interacción social, actividades domésticas y participación comunitaria. Es útil en diferentes contextos clínicos y poblaciones generales. ",
         "instrumento": "Disponible en versiones de 12 y 36 ítems. La versión corta (12 ítems) ofrece una evaluación rápida, mientras que la versión larga (36 ítems) permite un análisis más detallado. Los datos pueden ser recolectados mediante autoevaluación, entrevista o evaluación de terceros. ",
+        "puntuacion": "Puntajes más bajos (0-10): Menor discapacidad, mejor funcionamiento. Puntajes más altos (11-24): Mayor discapacidad, mayor limitación en la vida diaria.",
+        "modo": "Modo: Autoaplicado, entrevista directa o evaluación de terceros. Tiempo: Aproximadamente 5 minutos (versión corta) a 20 minutos (versión completa).",
+        "poblacion":"Personas con enfermedades crónicas, trastornos mentales, enfermedades neurológicas y la población general. ",
         "validacion": "Estudios recientes muestran su fiabilidad y validez en diversas condiciones de salud, como enfermedades neurológicas, mentales y crónicas. Se correlaciona bien con otros indicadores de discapacidad, mostrando consistencia interna elevada (α > 0.85) y sensibilidad a cambios tras intervenciones. ",
         "referencias": "1. Ćwirlej-Sozańska et al. (2020): Validación de la versión polaca de WHODAS 2.0, confirmando su uso efectivo en población general y con discapacidades físicas no agudas (BMC Public Health). 2. Moen et al. (2020): Validación en servicios de rehabilitación especializados, destacando su aplicabilidad en Europa (Qual Life Res). 3. Ciobanu et al. (2024): Evaluación del impacto de intervenciones de rehabilitación usando WHODAS 2.0 en condiciones crónicas como Parkinson y EPOC (Journal of Clinical Medicine).",
         "imagen": "https://i.postimg.cc/YqqZxHYF/world-health-organization-disability-assessment-schedule-whodas-2-0-12-item-version.jpg"
